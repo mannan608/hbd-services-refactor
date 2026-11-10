@@ -1,0 +1,842 @@
+
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "The United Kingdom",
+      "slug": "united-kingdom",
+      "code": "UK",
+      "hero": {
+        "id": 1,
+        "title": "Excellence in Education",
+        "description": "Experience a rich academic heritage, internationally recognised qualifications, shorter degree programs and excellent opportunities for personal and professional growth.",
+        "features": [
+          {
+            "id": 1,
+            "value": "Internationally recognised degrees"
+          },
+          {
+            "id": 2,
+            "value": "Many one-year Master's programs"
+          },
+          {
+            "id": 3,
+            "value": "Scholarship opportunities"
+          },
+          {
+            "id": 4,
+            "value": "Multicultural student life"
+          }
+        ]
+      },
+      "overview": {
+        "id": 1,
+        "title": "Academic Excellence in",
+        "description_1": "offers internationally recognised qualifications, a wide range of universities and a diverse student environment. Many full-time taught postgraduate master's programmes can be completed in one year, although duration varies by course.",
+        "description_2": "Beyond world-tier classrooms, students discover safe multicultural campuses, diverse communities, rich history, and post-study graduate employment pathways designed to launch competitive global careers.",
+
+        "stats": [
+          {
+            "id": 1,
+            "label": "Currency",
+            "value": "GBP"
+          },
+          {
+            "id": 2,
+            "label": "Study options",
+            "value": "Diverse"
+          },
+          {
+            "id": 3,
+            "label": "Popular degree",
+            "value": "1-year Master's*"
+          },
+          {
+            "id": 4,
+            "label": "Region",
+            "value": "Europe"
+          }
+        ]
+      },
+
+    "cities": [
+    {
+        "id": 1,
+        "name": "Bristol",
+        "location": "South West, England",
+        "image": "/frontend-img/destinations/cities/uk-1.jfif",
+        "description": "Strong for Engineering, Technology, Business & Creative Industries. A vibrant city with excellent career opportunities."
+    },
+    {
+        "id": 2,
+        "name": "Nottingham",
+        "location": "East Midlands, England",
+        "image": "/frontend-img/destinations/cities/uk-2.jfif",
+        "description": "Affordable student city with strong options in Business, Finance, Healthcare & Computing."
+    },
+    {
+        "id": 3,
+        "name": "Glasgow",
+        "location": "Scotland",
+        "image": "/frontend-img/destinations/cities/uk-3.jfif",
+        "description": "Major Scottish student destination with excellent universities and strong options in Business, Engineering, Technology & Healthcare."
+    },
+    {
+        "id": 4,
+        "name": "Liverpool",
+        "location": "North West, England",
+        "image": "/frontend-img/destinations/cities/uk-4.jfif",
+        "description": "Affordable, diverse and student-friendly, with strong choices in Business, Healthcare, Engineering & Computing."
+    }
+],
+      
+   
+     "whyChoose": {
+    "id": 1,
+    "description": "The UK offers globally recognised qualifications, a broad range of courses, many one-year master's programmes and a multicultural student environment. Compare course content, tuition fees, location and current visa requirements before choosing.",
+    "highlights": [
+        {
+            "id": 1,
+            "value": "World-Class Ranking"
+        },
+        {
+            "id": 2,
+            "value": "High Visa Success"
+        },
+        {
+            "id": 3,
+            "value": "Post-Study Work Permit"
+        }
+    ],
+    "image": "/frontend-img/destinations/why-choose/uk.jfif",
+    "benefits": [
+        {
+            "id": 1,
+            "number": "01",
+            "icon": "lucide:graduation-cap",
+            "title": "World-Class Institutions",
+            "description": "Study at top-tier globally recognized universities known for academic rigor, groundbreaking research, and leading faculty.",
+            "details": "Internationally recognized degrees"
+        },
+        {
+            "id": 2,
+            "number": "02",
+            "icon": "lucide:clock",
+            "title": "Fast-Track Degree Options",
+            "description": "Benefit from condensed course structures, including 1-year Master's degrees that save considerable tuition and living expenses.",
+            "details": "Accelerated career entry"
+        },
+        {
+            "id": 3,
+            "number": "03",
+            "icon": "lucide:briefcase-business",
+            "title": "Post-Study Graduate Work",
+            "description": "Eligible international graduates can live and work under the Graduate Route, subject to current UK immigration rules.",
+            "details": "Valuable international resume"
+        },
+        {
+            "id": 4,
+            "number": "04",
+            "icon": "lucide:badge-dollar-sign",
+            "title": "Part-Time Work Rights",
+            "description": "Eligible international students can work within the conditions of their Student visa during term time and holidays.",
+            "details": "Support living expenses"
+        },
+        {
+            "id": 5,
+            "number": "05",
+            "icon": "lucide:book-open",
+            "title": "Comprehensive Specializations",
+            "description": "Access thousands of interdisciplinary undergraduate and postgraduate degrees with modern industry-focused curriculums.",
+            "details": "Industry-aligned coursework"
+        },
+        {
+            "id": 6,
+            "number": "06",
+            "icon": "lucide:users",
+            "title": "Global Networking",
+            "description": "Connect with talented students, researchers, and alumni from countries around the world in an inclusive, multicultural student environment.",
+            "details": "Lifelong international connections"
+        }
+    ],
+    "careerPoints": [
+        {
+            "id": 1,
+            "icon": "lucide:briefcase-business",
+            "title": "Global Employability"
+        },
+        {
+            "id": 2,
+            "icon": "lucide:network",
+            "title": "Industry Networking"
+        },
+        {
+            "id": 3,
+            "icon": "lucide:lightbulb",
+            "title": "Innovation & Research"
+        },
+        {
+            "id": 4,
+            "icon": "lucide:trending-up",
+            "title": "Higher Earning Potential"
+        }
+    ]
+},
+"courses": [
+    {
+        "id": 1,
+        "number": "01",
+        "icon": "lucide:briefcase-business",
+        "title": "Business & Management",
+        "description": "Develop strategic leadership, global market expertise, and modern organizational acumen.",
+        "subjects": [
+            "MBA",
+            "International Business",
+            "Marketing",
+            "Human Resources"
+        ]
+    },
+    {
+        "id": 2,
+        "number": "02",
+        "icon": "lucide:code-2",
+        "title": "Computer Science & AI",
+        "description": "Master emerging technologies, software architecture, machine learning, and data intelligence.",
+        "subjects": [
+            "Artificial Intelligence",
+            "Data Science",
+            "Cyber Security",
+            "Software Engineering"
+        ]
+    },
+    {
+        "id": 3,
+        "number": "03",
+        "icon": "lucide:cog",
+        "title": "Engineering & Technology",
+        "description": "Solve complex real-world engineering problems through rigorous research and technological innovation.",
+        "subjects": [
+            "Mechanical",
+            "Civil Engineering",
+            "Electrical & Electronics",
+            "Robotics"
+        ]
+    },
+    {
+        "id": 4,
+        "number": "04",
+        "icon": "lucide:chart-no-axes-combined",
+        "title": "Accounting & Finance",
+        "description": "Acquire financial analytical capabilities and prepare for global banking, investment, and fintech careers.",
+        "subjects": [
+            "Corporate Finance",
+            "FinTech",
+            "Banking",
+            "Investment Management"
+        ]
+    },
+    {
+        "id": 5,
+        "number": "05",
+        "icon": "lucide:heart-pulse",
+        "title": "Health & Life Sciences",
+        "description": "Advance clinical research, public healthcare systems, pharmacology, and biomedical technologies.",
+        "subjects": [
+            "Public Health",
+            "Biomedical Science",
+            "Nursing",
+            "Pharmacology"
+        ]
+    },
+    {
+        "id": 6,
+        "number": "06",
+        "icon": "lucide:scale",
+        "title": "Law & Social Sciences",
+        "description": "Understand judicial frameworks, human rights, diplomacy, international policy, and sociological dynamics.",
+        "subjects": [
+            "Commercial Law",
+            "International Relations",
+            "Criminology",
+            "Public Policy"
+        ]
+    }
+],
+"studyLevels": [
+    {
+        "id": 1,
+        "number": "01",
+        "title": "Foundation & Pathway Courses",
+        "subtitle": "Build Academic & Language Readiness",
+        "duration": "Typically 1 Year",
+        "description": "Bridge the gap between your local curriculum (such as HSC) and university degree entry, with intensive English training and subject-specific foundations.",
+        "qualifications": [
+            "International Foundation Year",
+            "Diploma Pathway (Year 1 Entry)",
+            "Pre-Master's Program"
+        ],
+        "icon": "lucide:book-open"
+    },
+    {
+        "id": 2,
+        "number": "02",
+        "title": "Undergraduate Bachelor's Degrees",
+        "subtitle": "Comprehensive Higher Education",
+        "duration": "Typically 3–4 Years",
+        "description": "Develop deep conceptual knowledge, critical analysis, and practical experience with recognized honours degrees and optional industrial placement years.",
+        "qualifications": [
+            "Bachelor of Arts (BA)",
+            "Bachelor of Science (BSc)",
+            "Bachelor of Engineering (BEng)",
+            "Bachelor of Laws (LLB)"
+        ],
+        "icon": "lucide:graduation-cap"
+    },
+    {
+        "id": 3,
+        "number": "03",
+        "title": "Postgraduate Master's Degrees",
+        "subtitle": "Accelerated Professional Specialization",
+        "duration": "Typically 1–2 Years",
+        "description": "Enhance your career competitiveness with focused taught or research-led Master's programs. In the UK, many programs are completed in just 12 months.",
+        "qualifications": [
+            "Master of Science (MSc)",
+            "Master of Arts (MA)",
+            "Master of Business Administration (MBA)",
+            "Master of Research (MRes)"
+        ],
+        "icon": "lucide:award"
+    },
+    {
+        "id": 4,
+        "number": "04",
+        "title": "Doctoral Degrees (PhD / Research)",
+        "subtitle": "Pioneering Academic Research",
+        "duration": "Typically 3–4 Years",
+        "description": "Undertake independent research under world-renowned academic supervisors, producing original thesis contributions in your specialized field.",
+        "qualifications": [
+            "Doctor of Philosophy (PhD)",
+            "Professional Doctorate (DBA/EdD)",
+            "Research Fellowships"
+        ],
+        "icon": "lucide:microscope"
+    }
+],
+  
+    "universities": [
+    {
+        "id": 1,
+        "name": "University of Manchester",
+        "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+        "short_name": "UoM",
+        "city": "Manchester, England",
+        "type": "Russell Group Research University",
+        "ranking": "Top 30 QS World",
+        "badge": "POPULAR CHOICE",
+        "description": "A global research powerhouse with 25 Nobel laureates, offering comprehensive business, computer science, and engineering faculties.",
+        "url": "#contact"
+    },
+    {
+        "id": 2,
+        "name": "University of Birmingham",
+        "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Shield_of_the_University_of_Birmingham.svg",
+        "short_name": "UoB",
+        "city": "Birmingham, England",
+        "type": "Russell Group University",
+        "ranking": "Top 80 QS World",
+        "badge": "HIGH EMPLOYABILITY",
+        "description": "Renowned for industrial research partnerships, cutting-edge medical programs, and extensive international graduate placement schemes.",
+        "url": "#contact"
+    },
+    {
+        "id": 3,
+        "name": "University of Leeds",
+        "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Shield_of_the_University_of_Leeds.svg",
+        "short_name": "UoL",
+        "city": "Leeds, England",
+        "type": "Research-Intensive University",
+        "ranking": "Top 75 QS World",
+        "badge": "TOP 10 UK RESEARCH",
+        "description": "Celebrated for student satisfaction, innovative curricula, thriving arts culture, and generous international scholarship options.",
+        "url": "#contact"
+    },
+    {
+        "id": 4,
+        "name": "University of Bristol",
+        "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Shield_of_the_University_of_Bristol.svg",
+        "short_name": "UoB",
+        "city": "Bristol, England",
+        "type": "Russell Group Elite",
+        "ranking": "Top 55 QS World",
+        "badge": "HIGH DEMAND",
+        "description": "A leader in technology, aerospace engineering, life sciences, and entrepreneurship located in one of the UK's most creative cities.",
+        "url": "#contact"
+    },
+    {
+        "id": 5,
+        "name": "University of Glasgow",
+        "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Glasgow.svg",
+        "short_name": "UofG",
+        "city": "Glasgow, Scotland",
+        "type": "Ancient Scottish Institution",
+        "ranking": "Top 80 QS World",
+        "badge": "",
+        "description": "Founded in 1451, offering world-class instruction in medicine, law, social sciences, and informatics within a scenic heritage campus.",
+        "url": "#contact"
+    },
+    {
+        "id": 6,
+        "name": "Queen Mary University of London",
+        "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Mary_University_of_London_coat_of_arms.svg",
+        "short_name": "QMUL",
+        "city": "London, England",
+        "type": "Russell Group Campus",
+        "ranking": "Top 120 QS World",
+        "badge": "CAPITAL LOCATION",
+        "description": "A fully integrated residential campus in central London, excelling in law, artificial intelligence, economics, and dentistry.",
+        "url": "#contact"
+    }
+],
+"requirements": [
+    {
+        "id": 1,
+        "icon": "lucide:graduation-cap",
+        "number": "01",
+        "title": "Academic Qualifications",
+        "description": "Certified academic history meeting the direct or pathway criteria of your selected university.",
+        "items": [
+            "HSC / A-Levels / Diploma (Undergraduate)",
+            "Recognized Bachelor's Degree (Postgraduate)",
+            "Official marksheets & provisional certificates"
+        ]
+    },
+    {
+        "id": 2,
+        "icon": "lucide:languages",
+        "number": "02",
+        "title": "Language Proficiency",
+        "description": "Demonstrate academic English proficiency through globally accredited testing frameworks.",
+        "items": [
+            "IELTS Academic: 6.0 – 7.0 overall",
+            "PTE Academic: 58 – 68 overall",
+            "MOI (Medium of Instruction) waivers if eligible"
+        ]
+    },
+    {
+        "id": 3,
+        "icon": "lucide:files",
+        "number": "03",
+        "title": "Essential Documentation",
+        "description": "Complete portfolio of personal, academic, and professional supporting credentials.",
+        "items": [
+            "Compelling Statement of Purpose (SOP)",
+            "2 Academic / Professional Recommendations",
+            "Valid International Passport & Detailed CV"
+        ]
+    },
+    {
+        "id": 4,
+        "icon": "lucide:wallet",
+        "number": "04",
+        "title": "Financial Preparation",
+        "description": "Documented proof of required tuition deposits and statutory living maintenance funds.",
+        "items": [
+            "First semester/year tuition fee deposit",
+            "28-day holding bank solvency statement",
+            "Sponsor declarations and affidavit support"
+        ]
+    }
+],
+"entryRequirements": {
+        "id": 1,
+        "title": "Select Your Education Level",
+        "description": "Explore the academic requirements for your preferred study level.",
+        "levels": [
+            {
+                "id": 1,
+                "key": "undergraduate",
+                "label": "Undergraduate",
+                "heading": "Undergraduate Application Checklist",
+                "requirements": [
+                    {
+                        "id": 1,
+                        "description": "HSC (GPA 3.5+) or A-Levels (minimum 2–3 C grades)"
+                    },
+                    {
+                        "id": 2,
+                        "description": "IELTS 6.0 overall (no band less than 5.5) or equivalent PTE 54"
+                    },
+                    {
+                        "id": 3,
+                        "description": "Statement of Purpose detailing course motivation"
+                    },
+                    {
+                        "id": 4,
+                        "description": "1 Academic recommendation letter from college principal/teacher"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "key": "postgraduate",
+                "label": "Postgraduate",
+                "heading": "Postgraduate Application Checklist",
+                "requirements": [
+                    {
+                        "id": 1,
+                        "description": "4-Year Bachelor degree with CGPA 2.6 – 3.0+ (scale 4.0)"
+                    },
+                    {
+                        "id": 2,
+                        "description": "IELTS 6.5 overall (no band less than 6.0) or equivalent PTE 62"
+                    },
+                    {
+                        "id": 3,
+                        "description": "Focused research/academic SOP aligning with career objectives"
+                    },
+                    {
+                        "id": 4,
+                        "description": "2 Academic/Professional reference letters & updated CV"
+                    }
+                ]
+            }
+        ],
+        "cta": {
+            "id": 1,
+            "label": "Get Free Profile Assessment",
+            "url": "#contact"
+        }
+    },
+     "financialPlanning": {
+    "id": 1,
+    "tuitionFees": [
+      {
+        "id": 1,
+        "level": "Undergraduate",
+        "title": "Undergraduate Tuition Fees",
+        "badge": "Annual Estimate",
+        "studentCategory": "Typical Fees for Bangladeshi Students",
+        "minimum": 14000,
+        "maximum": 25000,
+        "currency": "GBP",
+        "period": "Per academic year",
+        "description": "International undergraduate tuition fees vary depending on university, subject and programme.",
+        "duration": "Undergraduate (3–4 Years)",
+        "icon": "lucide:graduation-cap"
+      },
+      {
+        "id": 2,
+        "level": "Postgraduate",
+        "title": "Postgraduate Master's Tuition",
+        "badge": "Full Program Estimate",
+        "studentCategory": "Typical Fees for Bangladeshi Students",
+        "minimum": 13000,
+        "maximum": 28000,
+        "currency": "GBP",
+        "period": "Usually a 1-year full-time programme",
+        "description": "Most taught Master's degrees can be completed in one year. Fees vary by university and subject.",
+        "duration": "Postgraduate (1 Year)",
+        "icon": "lucide:book-open"
+      }
+    ],
+    "livingCosts": {
+      "title": "Monthly Living Costs Breakdown",
+      "description": "Estimated monthly living expenses for international students.",
+      "period": "Per month",
+      "areas": [
+        {
+          "id": 1,
+          "category": "Metropolitan Area",
+          "name": "Inside London",
+          "amount": 1529,
+          "currency": "GBP",
+          "description": "Estimated monthly living expenses in London."
+        },
+        {
+          "id": 2,
+          "category": "Affordable Regions",
+          "name": "Outside London",
+          "amount": 1171,
+          "currency": "GBP",
+          "description": "Estimated monthly living expenses outside London."
+        }
+      ]
+    },
+    "scholarships": {
+      "featured": {
+        "id": 1,
+        "badge": "Featured Funding Opportunity",
+        "name": "GREAT Scholarships & Vice-Chancellor Awards",
+        "provider": "British Council & Partner Universities",
+        "description": "Available for eligible international applicants across undergraduate and postgraduate master's programmes. Awards vary by institution and eligibility.",
+        "icon": "lucide:trophy",
+        "value": "Up to £10,000",
+        "valueLabel": "Scholarship Value",
+        "valueDescription": "Tuition fee support subject to the scholarship provider's terms.",
+        "buttons": [
+          {
+            "id": 1,
+            "label": "Check Scholarship Eligibility",
+            "url": "#contact",
+            "icon": "lucide:arrow-right"
+          },
+          {
+            "id": 2,
+            "label": "Talk to Scholarship Advisor",
+            "url": "#contact",
+            "icon": "lucide:headset"
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": 1,
+          "icon": "lucide:award",
+          "category": "Merit Based",
+          "name": "University Excellence Scholarship",
+          "description": "Scholarship for eligible international students with strong academic performance.",
+          "benefits": "Up to £5,000",
+          "level": "Undergraduate & Postgraduate",
+          "website": "https://example.com"
+        },
+        {
+          "id": 2,
+          "icon": "lucide:graduation-cap",
+          "category": "Academic",
+          "name": "International Student Scholarship",
+          "description": "Financial support for qualifying international applicants.",
+          "benefits": "Partial Tuition Fee Waiver",
+          "level": "Postgraduate",
+          "website": "https://example.com"
+        },
+        {
+          "id": 3,
+          "icon": "lucide:globe",
+          "category": "International",
+          "name": "Global Education Award",
+          "description": "Funding opportunity for eligible students pursuing higher education.",
+          "benefits": "Up to £3,000",
+          "level": "Undergraduate & Postgraduate",
+          "website": "https://example.com"
+        }
+      ]
+    }
+  },
+  "admissionProcess": {
+        "id": 1,
+        "eyebrow": "STEP-BY-STEP ADMISSION PROCESS",
+        "title": "How We Guide You to Success",
+        "description": "Our structured application methodology provides transparent guidance throughout your international admission journey.",
+        "steps": [
+            {
+                "id": 1,
+                "step": "01",
+                "icon": "lucide:user-check",
+                "title": "Profile Assessment & Course Matching",
+                "description": "Our counsellors review your academic transcripts, budget, and career goals to select suitable universities and programs.",
+                "checklist": [
+                    {
+                        "id": 1,
+                        "value": "Academic evaluation"
+                    },
+                    {
+                        "id": 2,
+                        "value": "Budget & location preference"
+                    },
+                    {
+                        "id": 3,
+                        "value": "Course compatibility check"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "step": "02",
+                "icon": "lucide:languages",
+                "title": "Language Preparation & Testing",
+                "description": "Get targeted preparation for IELTS, PTE, or explore universities offering English language test waivers.",
+                "checklist": [
+                    {
+                        "id": 1,
+                        "value": "Diagnostic mock tests"
+                    },
+                    {
+                        "id": 2,
+                        "value": "Score enhancement guidance"
+                    },
+                    {
+                        "id": 3,
+                        "value": "Test center booking support"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "step": "03",
+                "icon": "lucide:file-text",
+                "title": "Application Submission & SOP Review",
+                "description": "We review your Statement of Purpose, verify academic documents, and submit applications to selected universities.",
+                "checklist": [
+                    {
+                        "id": 1,
+                        "value": "Professional SOP editing"
+                    },
+                    {
+                        "id": 2,
+                        "value": "Recommendation verification"
+                    },
+                    {
+                        "id": 3,
+                        "value": "University application submission"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "step": "04",
+                "icon": "lucide:mail-check",
+                "title": "Offer Letters & Scholarship Search",
+                "description": "Receive admission decisions, compare scholarship opportunities, and confirm your university placement.",
+                "checklist": [
+                    {
+                        "id": 1,
+                        "value": "Offer comparison review"
+                    },
+                    {
+                        "id": 2,
+                        "value": "Scholarship applications"
+                    },
+                    {
+                        "id": 3,
+                        "value": "Admission confirmation"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "step": "05",
+                "icon": "lucide:shield-check",
+                "title": "Financial Evidence & Visa Filing",
+                "description": "Prepare financial documents, complete visa applications, and receive guidance for your visa appointment.",
+                "checklist": [
+                    {
+                        "id": 1,
+                        "value": "Financial document review"
+                    },
+                    {
+                        "id": 2,
+                        "value": "Visa application assistance"
+                    },
+                    {
+                        "id": 3,
+                        "value": "Visa interview preparation"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "step": "06",
+                "icon": "lucide:plane-takeoff",
+                "title": "Pre-Departure & Arrival Support",
+                "description": "Prepare for your international journey with accommodation guidance, travel planning, and arrival assistance.",
+                "checklist": [
+                    {
+                        "id": 1,
+                        "value": "Accommodation assistance"
+                    },
+                    {
+                        "id": 2,
+                        "value": "Travel preparation"
+                    },
+                    {
+                        "id": 3,
+                        "value": "Student support network"
+                    }
+                ]
+            }
+        ],
+        "cta": {
+            "id": 1,
+            "title": "Ready to Begin Your Admission Application?",
+            "description": "Schedule a free, confidential one-on-one consultation with our senior counsellors today.",
+            "buttons": [
+                {
+                    "id": 1,
+                    "label": "Book Free Consultation",
+                    "url": "#contact",
+                    "icon": "lucide:arrow-right",
+                    "type": "primary"
+                },
+                {
+                    "id": 2,
+                    "label": "Call 09617-990099",
+                    "url": "tel:09617-990099",
+                    "icon": "lucide:phone",
+                    "type": "secondary"
+                }
+            ]
+        }
+    },
+
+    "faqSection": {
+        "id": 1,
+        "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+        "title": "Questions About Studying in United Kingdom",
+        "description": "Find answers to common questions regarding admissions, English tests, visa requirements, and student life in United Kingdom.",
+        "faqs": [
+            {
+                "id": 1,
+                "question": "Can I study in the United Kingdom without IELTS?",
+                "answer": "Yes, some universities accept alternative English qualifications such as PTE Academic, Duolingo or other approved tests. Some institutions may also accept a Medium of Instruction certificate, subject to their admission requirements."
+            },
+            {
+                "id": 2,
+                "question": "How long can I stay after completing my graduation?",
+                "answer": "Post-study work opportunities depend on the applicable immigration route, your qualification and the rules in force when you apply. Check the current official immigration requirements before making plans."
+            },
+            {
+                "id": 3,
+                "question": "Can international students work part-time while studying?",
+                "answer": "Work permissions depend on your visa conditions and course. Check the work restrictions stated on your immigration permission before accepting employment."
+            },
+            {
+                "id": 4,
+                "question": "What are the main university academic intakes?",
+                "answer": "Many universities offer September and January intakes. Some institutions also offer additional intakes depending on the programme and availability."
+            },
+            {
+                "id": 5,
+                "question": "What is a CAS letter?",
+                "answer": "A Confirmation of Acceptance for Studies (CAS) is an electronic reference issued by an eligible UK university sponsor. It is used as part of the Student visa application process."
+            },
+            {
+                "id": 6,
+                "question": "How much money do I need to show for my student visa?",
+                "answer": "Financial evidence requirements depend on tuition fees, study location and the current immigration rules. Check the official UK government guidance for the latest maintenance funds and holding-period requirements."
+            }
+        ],
+        "support": {
+            "id": 1,
+            "emailCard": {
+                "title": "Have More Questions?",
+                "description": "Our admissions specialists are available to review your academic transcripts and provide free, personalized advice.",
+                "label": "Email Admissions",
+                "email": "info@hbdservices.com",
+                "icon": "lucide:messages-square"
+            },
+            "consultationCard": {
+                "title": "Need Personal Guidance?",
+                "subtitle": "Talk to a senior counsellor today.",
+                "description": "Get complete support for university selection, application documentation, and visa guidance.",
+                "button": {
+                    "label": "Book Consultation",
+                    "url": "#contact",
+                    "icon": "lucide:arrow-right"
+                },
+                "icon": "lucide:headset"
+            }
+        }
+    }
+    }
+  ]
+}
