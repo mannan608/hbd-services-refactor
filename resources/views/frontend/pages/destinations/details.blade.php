@@ -108,8 +108,10 @@
         {{-- STICKY SECTION NAVIGATION --}}
 
          <div class="relative">
+            
             {{-- Section 1: Overview & Cities --}}
             @include('frontend.pages.destinations.details-section.overview', ['destination' => $destination])
+            
 
              {{-- Section 2: Why Choose us --}}
             @include('frontend.pages.destinations.details-section.why-uk', ['destination' => $destination])

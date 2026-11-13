@@ -15,8 +15,8 @@
             <div class="lg:col-span-7" data-reveal>
                 <div
                     class="mb-4 inline-flex items-center gap-2 rounded-full border border-brand-100 bg-brand-50 px-4 py-1.5 text-[12px] font-semibold uppercase tracking-[0.16em] text-brand-600">
-                    <span class="h-1.5 w-1.5 rounded-full bg-brand-500"></span>
-                    Destination Overview
+                    <iconify-icon icon="lucide:compass" class="text-sm text-brand-600"></iconify-icon>
+                    <span>Destination Overview</span>
                 </div>
 
                 <h2
@@ -32,6 +32,19 @@
                 <p class="mt-4 text-sm leading-7 text-black/60">
                     {{ $destination['overview']['description_2'] }}
                 </p>
+
+                <div class="grid grid-cols-1 gap-4 mt-3 sm:grid-cols-2">
+                    @foreach ($destination['hero']['features'] as $feature)
+                        <div class="flex items-center gap-3 rounded-xl border border-slate-200/80 bg-white p-3 shadow-sm transition-all hover:border-brand-300 hover:shadow-md">
+                                <div class="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg bg-accent-one-100 text-accent-one-700 font-bold">
+                                    <iconify-icon icon="lucide:check" class="text-sm"></iconify-icon>
+                                </div>
+                                <span class="text-xs sm:text-sm font-semibold text-slate-800">
+                                    {{ is_array($feature) ? ($feature['value'] ?? '') : $feature }}
+                                </span>
+                            </div>
+                    @endforeach
+                </div>
 
                 {{-- Action buttons --}}
                 <div class="mt-8 flex flex-wrap items-center gap-4">

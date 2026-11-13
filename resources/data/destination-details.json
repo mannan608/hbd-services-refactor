@@ -1891,11 +1891,11 @@
         "features": [
           {
             "id": 1,
-            "value": "8 globally ranked universities"
+            "value": "8 globally ranked"
           },
           {
             "id": 2,
-            "value": "25 hours per week student work rights"
+            "value": "25 hours per week work rights"
           },
           {
             "id": 3,
@@ -1910,7 +1910,7 @@
       "overview": {
         "id": 1,
         "title": "Academic Excellence in",
-        "description_1": "New Zealand represents one of the world's most distinguished higher education systems, celebrated for high-impact research output and globally portable credentials. International students enjoy access to modern laboratories, industry placements, and dedicated international career ecosystems.",
+        "description_1": "represents one of the world's most distinguished higher education systems, celebrated for high-impact research output and globally portable credentials. International students enjoy access to modern laboratories, industry placements, and dedicated international career ecosystems.",
         "description_2": "With post-study work rights of up to 3 years, a clear pathway to permanent residency, and PhD fees equivalent to domestic rates, New Zealand offers one of the best long-term returns on your education investment.",
         "stats": [
           {
