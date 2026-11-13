@@ -1,3 +1,4 @@
+
 {
   "destinations": [
     {
@@ -6,51 +7,63 @@
       "slug": "united-states",
       "image": "frontend-img/destinations/united-states.webp",
       "flag": "https://flagcdn.com/w40/us.png",
-       "flagCode": "us",
+      "flagCode": "us",
       "is_featured": true,
+      "popular": true,
       "rating": 4.9,
       "review_count": 1250,
-      "description": "Discover world-renowned universities, innovative learning environments, flexible academic pathways, and diverse opportunities to build a successful global career.",
-      "location": "United States",
-      "avgCost": "$ 20,000 – 45,000/year",
-       "visaProcessing": "3–8 weeks (estimated)"
-      
+      "description": "Study at globally recognised universities, access cutting-edge research facilities, explore flexible academic programs, and benefit from diverse career opportunities in one of the world's leading education destinations.",
+      "location": "North America",
+      "avgCost": "$20,000 – $45,000/year",
+      "visaProcessing": "3–8 weeks (estimated)"
     },
-    
     {
-      "id": 1,
+      "id": 2,
       "name": "United Kingdom",
       "slug": "united-kingdom",
       "image": "frontend-img/destinations/united-kingdom.webp",
       "flag": "https://flagcdn.com/w40/gb.png",
-       "flagCode": "gb",
+      "flagCode": "gb",
       "is_featured": false,
       "popular": true,
       "rating": 4.9,
       "review_count": 1250,
-      "description": "Experience a rich academic heritage, internationally recognised qualifications, shorter degree programs, and excellent opportunities for personal and professional growth.",
-      "location": "United Kingdom",
-      "avgCost": "$ 20,000 – 45,000/year",
-       "visaProcessing": "3–8 weeks (estimated)"
-      
+      "description": "Experience a rich academic heritage, internationally recognised qualifications, shorter degree programs, world-class universities, and excellent opportunities for personal and professional growth.",
+      "location": "Europe",
+      "avgCost": "£11,400 – £38,000/year",
+      "visaProcessing": "3 weeks (usually)"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Australia",
       "slug": "australia",
       "image": "frontend-img/destinations/australia.webp",
-      "flag": "https://flagcdn.com/w40/gb.png",
-       "flagCode": "gb",
+      "flag": "https://flagcdn.com/w40/au.png",
+      "flagCode": "au",
+      "is_featured": true,
+      "popular": true,
+      "rating": 4.9,
+      "review_count": 1250,
+      "description": "Discover high-quality education, internationally recognised qualifications, multicultural communities, practical learning experiences, and opportunities to develop valuable skills for a global career.",
+      "location": "Oceania",
+      "avgCost": "AUD $20,000 – $50,000/year",
+      "visaProcessing": "Variable (check current processing times)"
+    },
+    {
+      "id": 4,
+      "name": "New Zealand",
+      "slug": "new-zealand",
+      "image": "frontend-img/destinations/new-zealand.webp",
+      "flag": "https://flagcdn.com/w40/nz.png",
+      "flagCode": "nz",
       "is_featured": false,
       "popular": true,
       "rating": 4.9,
       "review_count": 1250,
-      "description": "Experience a rich academic heritage, internationally recognised qualifications, shorter degree programs, and excellent opportunities for personal and professional growth.",
-      "location": "United Kingdom",
-      "avgCost": "$ 20,000 – 45,000/year",
-       "visaProcessing": "3–8 weeks (estimated)"
-      
+      "description": "Enjoy internationally recognised qualifications, supportive learning environments, stunning natural surroundings, practical education, and opportunities to build a rewarding international career.",
+      "location": "Oceania",
+      "avgCost": "NZD $20,000 – $40,000/year",
+      "visaProcessing": "Variable (check current processing times)"
     }
-   
   ]
 }

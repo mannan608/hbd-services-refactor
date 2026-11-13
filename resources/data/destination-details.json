@@ -754,28 +754,8 @@
                     }
                 ]
             }
-        ],
-        "cta": {
-            "id": 1,
-            "title": "Ready to Begin Your Admission Application?",
-            "description": "Schedule a free, confidential one-on-one consultation with our senior counsellors today.",
-            "buttons": [
-                {
-                    "id": 1,
-                    "label": "Book Free Consultation",
-                    "url": "#contact",
-                    "icon": "lucide:arrow-right",
-                    "type": "primary"
-                },
-                {
-                    "id": 2,
-                    "label": "Call 09617-990099",
-                    "url": "tel:09617-990099",
-                    "icon": "lucide:phone",
-                    "type": "secondary"
-                }
-            ]
-        }
+        ]
+     
     },
 
     "faqSection": {
@@ -1827,28 +1807,8 @@
           }
         ]
       }
-    ],
-    "cta": {
-      "id": 1,
-      "title": "Ready to Begin Your Admission Journey?",
-      "description": "Schedule a free and confidential one-on-one consultation with a senior counsellor.",
-      "buttons": [
-        {
-          "id": 1,
-          "label": "Book Free Consultation",
-          "url": "#contact",
-          "icon": "lucide:arrow-right",
-          "type": "primary"
-        },
-        {
-          "id": 2,
-          "label": "Call XXXXXXXXX",
-          "url": "tel:XXXXXXXXX",
-          "icon": "lucide:phone",
-          "type": "secondary"
-        }
-      ]
-    }
+    ]
+  
   },
   "faqSection": {
     "id": 1,
@@ -1914,7 +1874,846 @@
       }
     }
   }
+},
+{
+  "id": 1,
+  "name": "New Zealand",
+  "slug": "new-zealand",
+  "code": "NZ",
+  "hero": {
+    "id": 1,
+    "title": "Study, Work & Thrive in New Zealand",
+    "description": "Home to 8 world-ranked universities, New Zealand offers globally respected degrees, the right to work 25 hours per week while studying, and up to 3 years of post-study work rights — all in one of the world's safest and most liveable countries.",
+    "features": [
+      {
+        "id": 1,
+        "value": "8 globally ranked universities"
+      },
+      {
+        "id": 2,
+        "value": "25 hours per week student work rights"
+      },
+      {
+        "id": 3,
+        "value": "Up to 3 years post-study work rights"
+      },
+      {
+        "id": 4,
+        "value": "Globally recognised qualifications"
+      }
+    ]
+  },
+  "overview": {
+    "id": 1,
+    "title": "Academic Excellence in New Zealand",
+    "description_1": "New Zealand represents one of the world's most distinguished higher education systems, celebrated for high-impact research output and globally portable credentials. International students enjoy access to modern laboratories, industry placements, and dedicated international career ecosystems.",
+    "description_2": "With post-study work rights of up to 3 years, a clear pathway to permanent residency, and PhD fees equivalent to domestic rates, New Zealand offers one of the best long-term returns on your education investment.",
+    "stats": [
+      {
+        "id": 1,
+        "label": "Currency",
+        "value": "NZD"
+      },
+      {
+        "id": 2,
+        "label": "Universities",
+        "value": "8"
+      },
+      {
+        "id": 3,
+        "label": "Study options",
+        "value": "Foundation to PhD"
+      },
+      {
+        "id": 4,
+        "label": "Region",
+        "value": "Oceania"
+      }
+    ]
+  },
+  "cities": [
+    {
+      "id": 1,
+      "name": "Auckland",
+      "image": "/frontend-img/destinations/cities/new-zealand-city.jpg",
+      "location": "North Island",
+      "description": "New Zealand's largest city and commercial capital. The most diverse, cosmopolitan, and internationally connected city in New Zealand, home to over 100 nationalities."
+    },
+    {
+      "id": 2,
+      "name": "Wellington",
+      "image": "/frontend-img/destinations/cities/new-zealand-city.jpg",
+      "location": "North Island",
+      "description": "New Zealand's capital city. Compact, walkable, and known as the creative and political heart of the country, famous for its café culture and arts scene."
+    },
+    {
+      "id": 3,
+      "name": "Christchurch",
+      "image": "/frontend-img/destinations/cities/new-zealand-city.jpg",
+      "location": "South Island",
+      "description": "Known as New Zealand's Garden City. Rebuilt and modernised after the 2011 earthquake, it is flat, cycle-friendly, sunny, and surrounded by mountains, beaches, and ski fields."
+    },
+    {
+      "id": 4,
+      "name": "Dunedin",
+      "image": "/frontend-img/destinations/cities/new-zealand-city.jpg",
+      "location": "South Island",
+      "description": "A student city with historic Scottish-influenced architecture, vibrant campus culture, and New Zealand's oldest university. Known as the Edinburgh of the South."
+    },
+    {
+      "id": 5,
+      "name": "Hamilton",
+      "image": "/frontend-img/destinations/cities/new-zealand-city.jpg",
+      "location": "North Island",
+      "description": "A growing city in the Waikato region, with a warmer climate and surroundings of farmland and forests. It is close to attractions such as Hobbiton and Waitomo Caves."
+    },
+    {
+      "id": 6,
+      "name": "Palmerston North",
+      "image": "/frontend-img/destinations/cities/new-zealand-city.jpg",
+      "location": "North Island",
+      "description": "A quiet university town known as New Zealand's food science and agricultural research hub. Home to Massey University's main campus, it is safe, affordable, and community-focused."
+    },
+    {
+      "id": 7,
+      "name": "Tauranga",
+      "image": "/frontend-img/destinations/cities/new-zealand-city.jpg",
+      "location": "North Island",
+      "description": "New Zealand's fastest-growing city, located in the Bay of Plenty with beautiful beaches, a booming economy, a relaxed coastal lifestyle, and the country's busiest port region."
+    },
+    {
+      "id": 8,
+      "name": "Nelson / Marlborough",
+      "image": "/frontend-img/destinations/cities/new-zealand-city.jpg",
+      "location": "South Island (Top of South)",
+      "description": "Known as New Zealand's sunshine capital, this small destination is surrounded by three national parks, wine country, and pristine coastal areas. It suits students seeking a peaceful, nature-rich environment."
+    }
+  ],
+  "whyChoose": {
+    "id": 1,
+    "description": "Discover a world-leading education system with globally accredited qualifications, cutting-edge facilities, and vibrant student communities. Studying in New Zealand offers an inspiring environment to develop professional expertise and open doors worldwide.",
+    "highlights": [
+      {
+        "id": 1,
+        "value": "All 8 universities are QS-ranked globally"
+      },
+      {
+        "id": 2,
+        "value": "Master's degrees typically take 1–1.5 years"
+      },
+      {
+        "id": 3,
+        "value": "Up to 3 years of post-study work rights"
+      }
+    ],
+    "benefits": [
+      {
+        "id": 1,
+        "number": "01",
+        "icon": "lucide:graduation-cap",
+        "title": "World-Class Institutions",
+        "description": "All 8 New Zealand universities are QS-ranked globally. The University of Auckland is ranked #65 and is the only New Zealand university in the global top 100. Five institutions sit in the top 300 worldwide.",
+        "details": "University of Auckland — QS Top 100 globally"
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "icon": "lucide:clock",
+        "title": "Fast-Track Degree Options",
+        "description": "New Zealand Master's degrees are typically 1 to 1.5 years, which can mean less tuition, lower living costs, and an earlier entry into the workforce.",
+        "details": "1-year Master's options across all 8 universities"
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "icon": "lucide:briefcase-business",
+        "title": "Post-Study Graduate Work Visa",
+        "description": "Eligible graduates with a Bachelor's degree or above (Level 7+) can apply for up to 3 years of post-study work rights. Work rights depend on qualification level and field of study.",
+        "details": "Up to 3 years of post-study work rights"
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "icon": "lucide:calendar-clock",
+        "title": "Part-Time Work Rights",
+        "description": "The supplied content states that eligible students can work 25 hours per week during term, with full-time work allowed during holidays. It lists the minimum wage as NZD $23.95 per hour.",
+        "details": "25 hours per week during term"
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "icon": "lucide:book-open",
+        "title": "Globally Recognised Specialisations",
+        "description": "New Zealand universities lead in Agriculture and Food Science, Marine and Environmental Studies, Health Sciences, Engineering, IT, and Business. NZQA-accredited qualifications are recognised by employers across the Asia-Pacific, UK, and beyond.",
+        "details": "NZQA-accredited and employer-recognised"
+      },
+      {
+        "id": 6,
+        "number": "06",
+        "icon": "lucide:users",
+        "title": "Global Student Community",
+        "description": "The supplied content reports 92,580 international students in 2025 and says New Zealand is a top-three study choice for 22% of prospective international students globally.",
+        "details": "A diverse international student community"
+      }
+    ],
+    "careerPoints": []
+  },
+  "courses": [
+    {
+      "id": 1,
+      "number": "01",
+      "icon": "lucide:briefcase-business",
+      "title": "Business & Management",
+      "description": "Develop leadership and global market expertise at universities ranked in the QS Business top 200. The University of Auckland Business School is AACSB and EQUIS dual-accredited.",
+      "subjects": [
+        "MBA",
+        "International Business",
+        "Marketing",
+        "Human Resources",
+        "Supply Chain"
+      ]
+    },
+    {
+      "id": 2,
+      "number": "02",
+      "icon": "lucide:brain-circuit",
+      "title": "Computer Science & AI",
+      "description": "New Zealand's technology sector and Wellington's Silicon Welly cluster provide opportunities across technology and software fields. The supplied content notes IT occupations on the Green List.",
+      "subjects": [
+        "Artificial Intelligence",
+        "Data Science",
+        "Cyber Security",
+        "Software Engineering",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "id": 3,
+      "number": "03",
+      "icon": "lucide:cog",
+      "title": "Engineering & Technology",
+      "description": "New Zealand's infrastructure investment and engineering sector create opportunities across several engineering specialisations. The University of Canterbury is highlighted for structural and civil engineering.",
+      "subjects": [
+        "Civil Engineering",
+        "Mechanical Engineering",
+        "Electrical & Electronics",
+        "Structural Engineering",
+        "Environmental Engineering"
+      ]
+    },
+    {
+      "id": 4,
+      "number": "04",
+      "icon": "lucide:heart-pulse",
+      "title": "Health & Life Sciences",
+      "description": "The University of Otago operates New Zealand's medical and dental schools. The supplied content highlights workforce demand and Green List pathways across health professions.",
+      "subjects": [
+        "Medicine",
+        "Nursing",
+        "Public Health",
+        "Pharmacy",
+        "Biomedical Science"
+      ]
+    },
+    {
+      "id": 5,
+      "number": "05",
+      "icon": "lucide:chart-no-axes-combined",
+      "title": "Accounting & Finance",
+      "description": "New Zealand accounting qualifications are recognised by CPA Australia, ICAEW, and ACCA. Auckland is a regional financial hub with major banks and demand for accountants.",
+      "subjects": [
+        "Corporate Finance",
+        "FinTech",
+        "Banking",
+        "Investment Management",
+        "Taxation"
+      ]
+    },
+    {
+      "id": 6,
+      "number": "06",
+      "icon": "lucide:leaf",
+      "title": "Agriculture & Environmental Science",
+      "description": "Agriculture, horticulture, and forestry are major export sectors. Lincoln University is globally ranked in Agriculture and Forestry, with strengths in sustainable farming and climate research.",
+      "subjects": [
+        "Agribusiness",
+        "Environmental Management",
+        "Horticulture",
+        "Viticulture",
+        "Forestry"
+      ]
+    },
+    {
+      "id": 7,
+      "number": "07",
+      "icon": "lucide:hotel",
+      "title": "Tourism & Hospitality",
+      "description": "Tourism is New Zealand's second-largest export earner. AUT is internationally recognised for hospitality management, with opportunities in hotel management, events, and eco-tourism.",
+      "subjects": [
+        "Hotel Management",
+        "Event Management",
+        "Eco-Tourism",
+        "Food & Beverage",
+        "Tourism Marketing"
+      ]
+    },
+    {
+      "id": 8,
+      "number": "08",
+      "icon": "lucide:palette",
+      "title": "Creative Arts & Design",
+      "description": "New Zealand's creative sector includes film, animation, game design, and fashion. Weta Workshop is based in Wellington, and Massey's College of Creative Arts is highlighted as a leading design school.",
+      "subjects": [
+        "Graphic Design",
+        "Animation & VFX",
+        "Game Design",
+        "Architecture",
+        "Fashion Design"
+      ]
+    }
+  ],
+  "studyLevels": [
+    {
+      "id": 1,
+      "number": "01",
+      "title": "Foundation & Pathway Courses",
+      "subtitle": "Build Academic & Language Readiness (NZQF Level 4–5)",
+      "duration": "Typically 1 Year",
+      "description": "Bridge the gap between your local curriculum and New Zealand university entry requirements. Includes academic English, subject-specific foundations, and progression routes into undergraduate degrees at partner universities.",
+      "qualifications": [
+        "International Foundation Year",
+        "Diploma Pathway (Year 1 Entry)",
+        "Pre-Master's Programme",
+        "English Language Programme"
+      ],
+      "icon": "lucide:book-open"
+    },
+    {
+      "id": 2,
+      "number": "02",
+      "title": "Undergraduate Bachelor's Degrees",
+      "subtitle": "Comprehensive Higher Education (NZQF Level 7)",
+      "duration": "Typically 3 Years",
+      "description": "New Zealand Bachelor's degrees are typically 3 years (360 credits), with an optional Honours year adding a fourth year of specialised study or research. Medicine and architecture programmes may run 5–6 years.",
+      "qualifications": [
+        "Bachelor of Arts (BA)",
+        "Bachelor of Science (BSc)",
+        "Bachelor of Engineering (BE)",
+        "Bachelor of Commerce (BCom)",
+        "Bachelor of Laws (LLB)",
+        "Bachelor of Health Sciences"
+      ],
+      "icon": "lucide:graduation-cap"
+    },
+    {
+      "id": 3,
+      "number": "03",
+      "title": "Graduate Diploma & Postgraduate Certificate",
+      "subtitle": "Career Change or Subject Upskill Pathway (NZQF Level 7–8)",
+      "duration": "6 Months – 1 Year",
+      "description": "A pathway for Bachelor's graduates who want to move into another field or strengthen their academic profile. A Graduate Diploma may provide a route into fields such as teaching, IT, and business. Postgraduate qualifications may count as credit toward a Master's degree.",
+      "qualifications": [
+        "Graduate Diploma (GradDip)",
+        "Postgraduate Certificate (PGCert)",
+        "Postgraduate Diploma (PGDip)"
+      ],
+      "icon": "lucide:award"
+    },
+    {
+      "id": 4,
+      "number": "04",
+      "title": "Postgraduate Master's Degrees",
+      "subtitle": "Advanced Professional Specialisation (NZQF Level 9)",
+      "duration": "1 – 1.5 Years",
+      "description": "Coursework Master's programmes typically run 1–1.5 years, while research-based programmes may take up to 2 years. IELTS 6.5 is typically required according to the supplied content.",
+      "qualifications": [
+        "Master of Science (MSc)",
+        "Master of Arts (MA)",
+        "Master of Business Administration (MBA)",
+        "Master of Engineering (ME)",
+        "Master of Research (MRes)"
+      ],
+      "icon": "lucide:award"
+    },
+    {
+      "id": 5,
+      "number": "05",
+      "title": "Doctoral Degrees (PhD / Research)",
+      "subtitle": "Pioneering Academic Research (NZQF Level 10)",
+      "duration": "Typically 3 Years",
+      "description": "New Zealand PhDs are typically completed in 3 years full-time. Universities offer research supervision, funding, and PhD scholarships for international students. The supplied content states that PhD holders may qualify for a 3-year open work visa.",
+      "qualifications": [
+        "Doctor of Philosophy (PhD)",
+        "Professional Doctorate (DBA / EdD)",
+        "Research Fellowships",
+        "PhD Scholarships"
+      ],
+      "icon": "lucide:microscope"
+    }
+  ],
+  "universities": [
+    {
+      "id": 1,
+      "name": "University of Auckland",
+      "logo": "/frontend-img/destinations/universities/dummy-university-logo.png",
+      "city": "Auckland",
+      "type": "Research University",
+      "ranking": "QS World Ranking: #65",
+      "badge": "TOP NZ UNIVERSITY",
+      "description": "New Zealand's #1 research university, with 8 faculties and more than 70,000 students. Key subject areas include Business, Engineering, Medicine, Law, and Arts.",
+      "url": "#contact"
+    },
+    {
+      "id": 2,
+      "name": "University of Otago",
+      "logo": "/frontend-img/destinations/universities/dummy-university-logo.png",
+      "city": "Dunedin",
+      "type": "Research University",
+      "ranking": "QS World Ranking: #214",
+      "badge": "HEALTH SCIENCES",
+      "description": "New Zealand's oldest university, established in 1869, with leading medical, dental, and pharmacy schools. Key subject areas include Medicine, Dentistry, Pharmacy, and Public Health.",
+      "url": "#contact"
+    },
+    {
+      "id": 3,
+      "name": "University of Waikato",
+      "logo": "/frontend-img/destinations/universities/dummy-university-logo.png",
+      "city": "Hamilton",
+      "type": "Research University",
+      "ranking": "QS World Ranking: #235",
+      "badge": "INNOVATION HUB",
+      "description": "Known for applied research in agri-tech, management, and computer science. Key subject areas include Management, Computer Science, and Environmental Science.",
+      "url": "#contact"
+    },
+    {
+      "id": 4,
+      "name": "Massey University",
+      "logo": "/frontend-img/destinations/universities/dummy-university-logo.png",
+      "city": "Palmerston North / Auckland / Wellington",
+      "type": "Public University",
+      "ranking": "QS World Ranking: #239",
+      "badge": "DISTANCE LEARNING",
+      "description": "Operates three campuses and is noted in the supplied content for veterinary science, aviation, food technology, and design.",
+      "url": "#contact"
+    },
+    {
+      "id": 5,
+      "name": "Victoria University of Wellington",
+      "logo": "/frontend-img/destinations/universities/dummy-university-logo.png",
+      "city": "Wellington",
+      "type": "Research University",
+      "ranking": "QS World Ranking: #244",
+      "badge": "CAPITAL CITY",
+      "description": "Located in the capital and known for law, policy, and government relations. Key subject areas include Law, Public Policy, Architecture, and International Relations.",
+      "url": "#contact"
+    },
+    {
+      "id": 6,
+      "name": "University of Canterbury",
+      "logo": "/frontend-img/destinations/universities/dummy-university-logo.png",
+      "city": "Christchurch",
+      "type": "Research University",
+      "ranking": "QS World Ranking: #261",
+      "badge": "ENGINEERING FOCUS",
+      "description": "Highlighted as New Zealand's leading engineering university, with a modernised campus. Key subject areas include Engineering, IT and Computer Science, Science, and Education.",
+      "url": "#contact"
+    },
+    {
+      "id": 7,
+      "name": "Lincoln University",
+      "logo": "/frontend-img/destinations/universities/dummy-university-logo.png",
+      "city": "Lincoln (near Christchurch)",
+      "type": "Specialist University",
+      "ranking": "QS World Ranking: #371",
+      "badge": "AGRI SPECIALIST",
+      "description": "A land-based research university. Key subject areas include Agriculture, Agribusiness, Environmental Science, and Forestry.",
+      "url": "#contact"
+    },
+    {
+      "id": 8,
+      "name": "Auckland University of Technology (AUT)",
+      "logo": "/frontend-img/destinations/universities/dummy-university-logo.png",
+      "city": "Auckland",
+      "type": "Technology University",
+      "ranking": "QS World Ranking: #412",
+      "badge": "HIGH EMPLOYABILITY",
+      "description": "Known for applied, work-ready programmes and graduate employment. Key subject areas include Hospitality, Sport Science, Journalism, Health, and IT.",
+      "url": "#contact"
+    }
+  ],
+  "requirements": [
+    {
+      "id": 1,
+      "icon": "lucide:graduation-cap",
+      "number": "01",
+      "title": "Academic Qualifications",
+      "description": "Meet the academic entry requirements for the selected study level.",
+      "items": [
+        "Undergraduate: HSC or equivalent, GPA 3.5+ (as stated in the supplied content)",
+        "Postgraduate: recognised Bachelor's degree, minimum CGPA 3.0/4.0",
+        "Foundation year available for borderline profiles"
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "lucide:languages",
+      "number": "02",
+      "title": "English Proficiency",
+      "description": "The supplied content states that an English proficiency test score is mandatory for international applicants.",
+      "items": [
+        "Undergraduate: IELTS 6.0 overall, no band below 5.5, or PTE 50, no band below 42",
+        "Postgraduate: IELTS 6.5 overall, no band below 6.0, or PTE 58, no band below 50",
+        "TOEFL iBT and Cambridge C1/C2 Advanced are also listed as accepted alternatives"
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "lucide:files",
+      "number": "03",
+      "title": "Required Documents",
+      "description": "Prepare academic, identity, English-language, and supporting documents for the application.",
+      "items": [
+        "Passport",
+        "All academic transcripts",
+        "CV / Resume",
+        "Letters of Recommendation (LORs)",
+        "English proficiency certificate",
+        "Statement of Purpose (SOP)",
+        "Work-related documents, if applicable"
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "lucide:wallet",
+      "number": "04",
+      "title": "Financial Evidence",
+      "description": "Show evidence of living costs and tuition fees for the New Zealand Student Visa.",
+      "items": [
+        "NZD $20,000 per year for living costs",
+        "Evidence of full tuition fees",
+        "Bank statements covering the last 3–6 months"
+      ]
+    },
+    {
+      "id": 5,
+      "icon": "lucide:shield-check",
+      "number": "05",
+      "title": "Student Visa",
+      "description": "Prepare the required offer, genuine student, financial, health, and character evidence for the visa application.",
+      "items": [
+        "Valid university Offer Letter",
+        "Genuine student intention",
+        "Proof of funds",
+        "Return airfare",
+        "Health and character checks for stays over 24 months"
+      ]
+    }
+  ],
+  "entryRequirements": {
+    "id": 1,
+    "title": "Select Your Education Level",
+    "description": "Explore the academic, English-language, document, and financial requirements for your preferred study level.",
+    "levels": [
+      {
+        "id": 1,
+        "key": "undergraduate",
+        "label": "Undergraduate",
+        "heading": "Undergraduate Application Checklist",
+        "requirements": [
+          {
+            "id": 1,
+            "description": "Academic: HSC GPA 3.5+ or A-Levels (minimum 2–3 C grades)"
+          },
+          {
+            "id": 2,
+            "description": "English: IELTS 6.0 overall (no band below 5.5) or PTE 50 (no band below 42)"
+          },
+          {
+            "id": 3,
+            "description": "SOP: Statement of Purpose detailing course motivation and career goals"
+          },
+          {
+            "id": 4,
+            "description": "Reference: 1 academic letter from college principal or subject teacher"
+          },
+          {
+            "id": 5,
+            "description": "Finances: NZD $20,000/year living cost proof plus tuition fee evidence"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "key": "postgraduate",
+        "label": "Postgraduate",
+        "heading": "Postgraduate Application Checklist",
+        "requirements": [
+          {
+            "id": 1,
+            "description": "Academic: 4-year Bachelor's degree with minimum CGPA 3.0/4.0"
+          },
+          {
+            "id": 2,
+            "description": "English: IELTS 6.5 overall (no band below 6.0) or PTE 58 (no band below 50)"
+          },
+          {
+            "id": 3,
+            "description": "SOP: Focused research or academic statement aligned with career objectives"
+          },
+          {
+            "id": 4,
+            "description": "References: 2 academic or professional letters plus updated CV"
+          },
+          {
+            "id": 5,
+            "description": "Finances: NZD $20,000/year living cost proof plus tuition fee evidence"
+          }
+        ]
+      }
+    ],
+    "cta": {
+      "id": 1,
+      "label": "Explore Entry Route",
+      "url": "#contact"
+    }
+  },
+  "financialPlanning": {
+    "id": 1,
+    "tuitionFees": [
+      {
+        "id": 1,
+        "level": "Undergraduate",
+        "title": "Undergraduate Tuition Fees",
+        "badge": "Annual Estimate",
+        "studentCategory": "Typical for International Students",
+        "minimum": 22000,
+        "maximum": 35000,
+        "currency": "NZD",
+        "period": "Per year",
+        "description": "Typical annual tuition fee range for international undergraduate students.",
+        "duration": "Per academic year",
+        "icon": "lucide:graduation-cap"
+      },
+      {
+        "id": 2,
+        "level": "Postgraduate Master's",
+        "title": "Postgraduate Master's Tuition",
+        "badge": "Full Programme Estimate",
+        "studentCategory": "Typical for Master's Programmes",
+        "minimum": 26000,
+        "maximum": 42000,
+        "currency": "NZD",
+        "period": "Per year",
+        "description": "Typical tuition fee range stated for Master's programmes, usually 1–1.5 years.",
+        "duration": "Typically 1–1.5 Years",
+        "icon": "lucide:award"
+      }
+    ],
+    "livingCosts": {
+      "title": "Monthly Living Costs Breakdown",
+      "description": "All figures are in New Zealand Dollars (NZD), based on the supplied content's student budget estimates.",
+      "period": "Per month",
+      "areas": [
+        {
+          "id": 1,
+          "category": "Major City",
+          "name": "Auckland / Wellington",
+          "amount": "1800–2500",
+          "currency": "NZD",
+          "description": "Estimated monthly living costs in major cities."
+        },
+        {
+          "id": 2,
+          "category": "Affordable Region",
+          "name": "Christchurch / Dunedin",
+          "amount": "1400–1900",
+          "currency": "NZD",
+          "description": "Estimated monthly living costs in more affordable regions."
+        }
+      ]
+    },
+    "scholarships": {
+      "featured": {
+        "id": 1,
+        "badge": "Featured Funding Opportunity",
+        "name": "NZ Excellence Awards & University Merit Scholarships",
+        "provider": "Participating New Zealand universities",
+        "description": "Available to eligible international applicants from South and Southeast Asia across undergraduate and postgraduate programmes. Merit-based awards are applied directly to first-year tuition.",
+        "icon": "lucide:trophy",
+        "value": "Up to NZD $15,000",
+        "valueLabel": "Scholarship Value",
+        "valueDescription": "Partial fee waiver applied directly upon admission confirmation.",
+        "buttons": [
+          {
+            "id": 1,
+            "label": "Check Scholarship Eligibility",
+            "url": "#contact",
+            "icon": "lucide:arrow-right"
+          },
+          {
+            "id": 2,
+            "label": "Talk to Scholarship Advisor",
+            "url": "#contact",
+            "icon": "lucide:headset"
+          }
+        ]
+      },
+      "items": []
+    }
+  },
+  "admissionProcess": {
+    "id": 1,
+    "eyebrow": "NEW ZEALAND ADMISSION & VISA PROCESS",
+    "title": "Your Admission Journey to New Zealand",
+    "description": "Follow the application, Offer Letter, and student visa steps described in the supplied content.",
+    "steps": [
+      {
+        "id": 1,
+        "step": "01",
+        "icon": "lucide:route",
+        "title": "Choose Your Study Route",
+        "description": "Select an undergraduate or postgraduate route based on your academic background, English proficiency, and future ambitions.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Review academic qualifications"
+          },
+          {
+            "id": 2,
+            "value": "Review English proficiency scores"
+          },
+          {
+            "id": 3,
+            "value": "Choose a suitable course and study level"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "step": "02",
+        "icon": "lucide:files",
+        "title": "Prepare and Submit Application Documents",
+        "description": "Submit the required documents to the selected New Zealand university or education provider.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Prepare passport and academic transcripts"
+          },
+          {
+            "id": 2,
+            "value": "Prepare English proficiency certificate"
+          },
+          {
+            "id": 3,
+            "value": "Prepare SOP, CV, and reference letters where required"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "step": "03",
+        "icon": "lucide:mail-check",
+        "title": "Receive University Offer Letter",
+        "description": "After a complete application, the supplied content estimates that an Offer Letter typically arrives within 2–8 weeks. No tuition fee payment is required at the initial Offer Letter stage.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Submit all required documents"
+          },
+          {
+            "id": 2,
+            "value": "Receive and review the Offer Letter"
+          },
+          {
+            "id": 3,
+            "value": "Check offer conditions"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "step": "04",
+        "icon": "lucide:shield-check",
+        "title": "Apply for New Zealand Student Visa",
+        "description": "Lodge the Student Visa application with Immigration New Zealand (INZ) using the Offer Letter and supporting evidence.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Prepare genuine student and financial evidence"
+          },
+          {
+            "id": 2,
+            "value": "Submit the Student Visa application to INZ"
+          },
+          {
+            "id": 3,
+            "value": "Follow visa application requirements"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "step": "05",
+        "icon": "lucide:credit-card",
+        "title": "Pay Tuition Fees and Receive eVisa",
+        "description": "The supplied content states that tuition fees may be paid before lodging the visa application or after receiving Approval in Principle (AIP) from INZ. Once payment is confirmed and conditions are met, INZ issues the electronic visa.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Pay tuition fees before visa lodgement or after AIP"
+          },
+          {
+            "id": 2,
+            "value": "Meet the remaining visa conditions"
+          },
+          {
+            "id": 3,
+            "value": "Receive the electronic visa (eVisa)"
+          }
+        ]
+      }
+    ]
+  },
+  "faqSection": {
+    "id": 1,
+    "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+    "title": "Questions About Studying in New Zealand",
+    "description": "Find answers to common questions about New Zealand university admissions, English tests, student visas, work rights, and living costs.",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Can I study in New Zealand without IELTS?",
+        "answer": "The supplied content states that an English proficiency test score is mandatory for international applicants and that New Zealand universities no longer accept MOI waivers. Alternatives listed are PTE Academic (50+ for undergraduate and 58+ for postgraduate, with no communicative skill below 42/50), TOEFL iBT, and Cambridge C1/C2 Advanced."
+      },
+      {
+        "id": 2,
+        "question": "How long can I work after completing my studies?",
+        "answer": "Eligible graduates may apply for a New Zealand Post-Study Work Visa. The supplied content states that the duration can be up to 3 years for Green List occupations and generally 1–3 years depending on qualification level. Employer sponsorship is not required, and applicants must have studied in New Zealand for at least 30 weeks."
+      },
+      {
+        "id": 3,
+        "question": "Can international students work part-time while studying?",
+        "answer": "According to the supplied content, eligible international students can work up to 25 hours per week during the academic term and full-time during official vacation periods."
+      },
+      {
+        "id": 4,
+        "question": "What are the main university academic intakes?",
+        "answer": "The main New Zealand intakes are Semester 1 in February/March and Semester 2 in July/August. Some programmes also offer rolling or trimester entry. The supplied content recommends applying 6–9 months before the intended start date."
+      },
+      {
+        "id": 5,
+        "question": "What is an Offer Letter and when do I receive it?",
+        "answer": "After submitting all required documents, the university or education provider issues an Offer Letter. The supplied content estimates 2–8 weeks for a complete application and states that tuition payment is not required at this initial stage. Students can lodge a Student Visa application with Immigration New Zealand using the Offer Letter. Tuition fees may be paid before visa lodgement or after receiving Approval in Principle (AIP). Once payment is confirmed and conditions are met, INZ issues the electronic visa (eVisa)."
+      },
+      {
+        "id": 6,
+        "question": "How much bank solvency funds do I need to show for the visa?",
+        "answer": "The supplied content states a minimum of NZD $20,000 per year (approximately NZD $1,667 per month) for living expenses, in addition to tuition fees. It recommends bank statements covering 3–6 months. Parent or guardian funds may be accepted with supporting documentation."
+      }
+    ]
+  }
 }
+
 
   ]
 }

@@ -1,5 +1,6 @@
 @extends('frontend.layouts.app')
 
+@section('title', $destination['name'])
 @section('content')
     @php
 

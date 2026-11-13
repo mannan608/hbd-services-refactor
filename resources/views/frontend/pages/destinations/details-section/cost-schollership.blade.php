@@ -150,9 +150,9 @@
 
                                 <div class="shrink-0 text-right">
 
-                                    <span class="text-lg font-extrabold text-black sm:text-xl">
-                                        {{ $area['currency_symbol'] ?? '' }}{{ number_format($area['amount'] ?? 0) }}
-                                    </span>
+                                    {{-- <span class="text-lg font-extrabold text-black sm:text-xl">
+                                        {{ $area['currency'] ?? '' }}{{ number_format($area['amount'] ?? 0) }}
+                                    </span> --}}
 
                                     <span class="block text-xs text-black/50">
                                         {{ $livingCosts['period'] ?? 'Per month' }}
