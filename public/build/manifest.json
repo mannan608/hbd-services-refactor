@@ -4,8 +4,8 @@
     "name": "utils"
   },
   "node_modules/flatpickr/dist/esm/index.js": {
-    "file": "assets/index-BPBzpGOV.js",
-    "name": "index",
+    "file": "assets/esm-BPBzpGOV.js",
+    "name": "esm",
     "src": "node_modules/flatpickr/dist/esm/index.js",
     "isDynamicEntry": true
   },
@@ -14,8 +14,8 @@
     "src": "node_modules/flatpickr/dist/flatpickr.min.css"
   },
   "node_modules/swiper/modules/index.mjs": {
-    "file": "assets/index-DV2iSWJ8.js",
-    "name": "index",
+    "file": "assets/modules-DV2iSWJ8.js",
+    "name": "modules",
     "src": "node_modules/swiper/modules/index.mjs",
     "isDynamicEntry": true,
     "imports": [
@@ -36,12 +36,12 @@
     ]
   },
   "resources/css/app.css": {
-    "file": "assets/app-C7-GjAYB.css",
+    "file": "assets/app-Dgsg2V3k.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
   "resources/js/app.js": {
-    "file": "assets/app-BoP5uGo3.js",
+    "file": "assets/app-DEYOEmH2.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,
