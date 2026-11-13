@@ -4,7 +4,7 @@
     <div class="relative mx-auto w-full max-w-7xl px-6 text-center lg:px-8">
 
         {{-- Section header --}}
-        <header class="mx-auto max-w-2xl" data-reveal>
+        <header class="mx-auto max-w-4xl" data-reveal>
             <span
                 class="inline-flex items-center gap-2 rounded-full border border-brand-100 bg-white px-4 py-1.5 text-[12px] font-semibold uppercase tracking-[0.16em] text-brand-600">
                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none"
@@ -15,7 +15,7 @@
                 Global Education
             </span>
             <h2
-                class="mt-5 text-[28px] font-semibold leading-[1.2] tracking-[-0.02em] text-black sm:text-[30px] lg:text-[32px]">
+                class="mt-5 text-3xl font-semibold leading-[1.2] tracking-[-0.02em] text-black sm:text-4xl md:text-5xl lg:text-6xl">
                 Choose your <span class="text-red-500">study destination</span>
             </h2>
             <p class="mx-auto mt-4 max-w-xl text-base leading-7 text-black/60">
@@ -36,7 +36,7 @@
         </div>
 
         {{-- View all --}}
-        <div class="mt-12 flex justify-center" data-reveal>
+        {{-- <div class="mt-12 flex justify-center" data-reveal>
             <a href="{{ route('destinations') }}"
                 class="group inline-flex items-center gap-2 rounded-xl border border-brand-200 bg-white px-6 py-3.5 text-sm font-semibold text-brand-700 transition-all duration-300 hover:-translate-y-0.5 hover:border-brand-300 hover:bg-brand-50 hover:text-brand-800">
                 <span>View all destinations</span>
@@ -46,6 +46,6 @@
                     <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
                 </svg>
             </a>
-        </div>
+        </div> --}}
     </div>
 </section>

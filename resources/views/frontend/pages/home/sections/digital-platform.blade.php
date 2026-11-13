@@ -77,12 +77,12 @@
     <div class="relative mx-auto w-full max-w-7xl px-6 lg:px-8">
 
         {{-- Header --}}
-        <div class="mx-auto max-w-3xl text-center" data-reveal>
+        <div class="mx-auto max-w-4xl text-center" data-reveal>
             <span class="inline-flex items-center gap-2 rounded-full border border-brand-400/30 bg-brand-500/10 px-4 py-1.5 text-[10px] sm:text-[11px] lg:text-[12px] font-semibold uppercase tracking-[0.16em] text-brand-200 backdrop-blur">
                 <iconify-icon icon="lucide:sparkles" class="text-[15px]"></iconify-icon>
                 {{ $badge }}
             </span>
-            <h2 class="mt-5 text-xl font-semibold leading-[1.2] tracking-[-0.02em]  sm:text-2xl lg:text-3xl  text-white">
+            <h2 class="mt-5 text-3xl font-semibold leading-[1.2] tracking-[-0.02em]  sm:text-4xl md:text-5xl lg:text-6xl text-white">
                 {{ $title }}
                 <span class="text-red-500">
                     unified platform

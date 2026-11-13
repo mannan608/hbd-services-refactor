@@ -18,14 +18,14 @@
 <section class="py-10 sm:py-12 md:py-16 lg:py-20 overflow-hidden defer-render">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-4 md:mb-5 lg:mb-6">
         {{-- Header --}}
-        <header class="mx-auto max-w-2xl text-center" data-reveal>
+        <header class="mx-auto max-w-4xl text-center" data-reveal>
             <span class="inline-flex items-center gap-2 rounded-full border border-brand-100 bg-white px-3.5 py-1.5 text-[11px] sm:text-[12px] font-semibold uppercase tracking-[0.16em] text-brand-600">
                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z" />
                 </svg>
                 Global Network
             </span>
-            <h2 class="mt-4 sm:mt-5 text-[24px] sm:text-[28px] lg:text-[32px] font-semibold leading-[1.2] tracking-[-0.02em] text-black">
+            <h2 class="mt-5 text-3xl font-semibold leading-[1.2] tracking-[-0.02em] text-black sm:text-4xl md:text-5xl lg:text-6xl">
                 Trusted by <span class="text-red-500">2,000+ universities</span>
             </h2>
             <p class="mx-auto mt-3 sm:mt-4 max-w-xl text-sm sm:text-base leading-6 sm:leading-7 text-black/60">

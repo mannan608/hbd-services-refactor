@@ -31,12 +31,12 @@
     <div class="relative mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8">
 
         {{-- Header --}}
-        <div class="mx-auto max-w-2xl text-center" data-reveal>
+        <div class="mx-auto max-w-4xl text-center" data-reveal>
             <span class="inline-flex items-center gap-2 rounded-full border border-brand-100 bg-white px-3.5 py-1.5 text-[11px] sm:text-[12px] font-semibold uppercase tracking-[0.16em] text-brand-600">
                 <iconify-icon icon="lucide:sparkles" class="text-[14px] sm:text-[15px]"></iconify-icon>
                 {{ $badge }}
             </span>
-            <h2 class="mt-4 sm:mt-5 text-[24px] sm:text-[28px] lg:text-[32px] font-semibold leading-[1.2] tracking-[-0.02em] text-black">
+            <h2 class="mt-5 text-3xl font-semibold leading-[1.2] tracking-[-0.02em] text-black sm:text-4xl md:text-5xl lg:text-6xl">
                 {{ $title }} <span class="text-brand-500">{{ $titleHighlight }}</span>
             </h2>
             <p class="mx-auto mt-3 sm:mt-4 max-w-xl text-sm sm:text-base leading-6 sm:leading-7 text-black/60">

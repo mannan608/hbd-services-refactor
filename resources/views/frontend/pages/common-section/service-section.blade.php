@@ -48,7 +48,7 @@
     <div class="mx-auto w-full max-w-7xl px-6 lg:px-8">
 
         {{-- Section header --}}
-        <header class="mx-auto max-w-2xl text-center" data-reveal>
+        <header class="mx-auto max-w-4xl text-center" data-reveal>
             <span class="inline-flex items-center gap-2 rounded-full border border-brand-100 bg-brand-50 px-4 py-1.5 text-[12px] font-semibold uppercase tracking-[0.16em] text-brand-600">
                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
                     <circle cx="12" cy="12" r="10" />
@@ -57,7 +57,7 @@
                 </svg>
                 {{ $badge }}
             </span>
-            <h2 class="mt-5 text-[28px] font-semibold leading-[1.2] tracking-[-0.02em] text-black sm:text-[30px] lg:text-[32px]">
+            <h2 class="mt-5 text-3xl font-semibold leading-[1.2] tracking-[-0.02em] text-black sm:text-4xl md:text-5xl lg:text-6xl">
                Explore our study <span class="text-red-500">abroad services</span>
             </h2>
             <p class="mx-auto mt-4 max-w-xl text-base leading-7 text-black/60">

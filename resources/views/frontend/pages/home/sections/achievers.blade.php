@@ -8,72 +8,74 @@
 ])
 
 @php
-    $defaultTestimonials = [
-        [
-            'id' => '1',
-            'name' => 'Sarah Jenkins',
-            'course' => 'Master of IT, Australia',
-            'videoId' => 'IAOHC6FcjZw',
-            'thumbnail' =>
-                'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80',
-        ],
-        [
-            'id' => '2',
-            'name' => 'Rahul Sharma',
-            'course' => 'MBA, United Kingdom',
-            'videoId' => 'sz_DA1TkGvk',
-            'thumbnail' =>
-                'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80',
-        ],
-        [
-            'id' => '3',
-            'name' => 'Ananya Patel',
-            'course' => 'Data Science, Canada',
-            'videoId' => 'KP2PoEkO3jE',
-            'thumbnail' =>
-                'https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80',
-        ],
-        [
-            'id' => '4',
-            'name' => "Liam O'Connor",
-            'course' => 'Engineering, USA',
-            'videoId' => 'fwXF0hSY89Q',
-            'thumbnail' =>
-                'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&q=80',
-        ],
-        [
-            'id' => '5',
-            'name' => 'Mei Lin',
-            'course' => 'Nursing, New Zealand',
-            'videoId' => 'a_Y7NumY2ic',
-            'thumbnail' =>
-                'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=600&q=80',
-        ],
-        [
-            'id' => '6',
-            'name' => 'Carlos Mendez',
-            'course' => 'Architecture, Germany',
-            'videoId' => '-6RkLOHDbg8',
-            'thumbnail' =>
-                'https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=600&q=80',
-        ],
-        [
-            'id' => '7',
-            'name' => 'Priya Singh',
-            'course' => 'Finance, Ireland',
-            'videoId' => 'XbFprBIdzyQ',
-            'thumbnail' =>
-                'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=600&q=80',
-        ],
-        [
-            'id' => '8',
-            'name' => 'David Kim',
-            'course' => 'Cyber Security, Australia',
-            'videoId' => 'DIMgG8e0LKQ',
-            'thumbnail' =>
-                'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=600&q=80',
-        ],
-    ];
+  
+$defaultTestimonials = [
+    [
+        'id' => '1',
+        'name' => 'Niloy Bhattacharjee',
+        'course' => 'Master of Information Technology in Cyber Security, Australia',
+        'videoId' => 'IAOHC6FcjZw',
+        'thumbnail' => '/images/achievers/s-1.jpg',
+    ],
+    [
+        'id' => '2',
+        'name' => 'Md Shoayeb Akter',
+        'course' => 'Master of International Business and Master of Marketing, Australia',
+        'videoId' => 'sz_DA1TkGvk',
+        'thumbnail' => '/images/achievers/s-2.jpg',
+    ],
+    [
+        'id' => '3',
+        'name' => 'Md Farhan Tanvir & Md Faisal Anjum',
+        'course' => 'Master of Data Science, Australia',
+        'videoId' => 'KP2PoEkO3jE',
+        'thumbnail' => '/images/achievers/s-3.jpg',
+    ],
+    [
+        'id' => '4',
+        'name' => 'Dewan Osman Mahdi',
+        'course' => 'Master of Information Technology and Systems, Australia',
+        'videoId' => 'fwXF0hSY89Q',
+        'thumbnail' => '/images/achievers/s-4.jpg',
+    ],
+    [
+        'id' => '5',
+        'name' => 'Tanjila Rahman Shanta',
+        'course' => 'Bachelor of Information and Communication Technology, Australia',
+        'videoId' => 'a_Y7NumY2ic',
+        'thumbnail' => '/images/achievers/s-5.jpg',
+    ],
+    [
+        'id' => '6',
+        'name' => 'Safayet Siddiqui',
+        'course' => 'Bachelor of Nursing, Australia',
+        'videoId' => '-6RkLOHDbg8',
+        'thumbnail' => '/images/achievers/s-6.jpg',
+    ],
+    [
+        'id' => '7',
+        'name' => 'Sheikh Ehsanul Haque',
+        'course' => 'Master of Business Administration, Australia',
+        'videoId' => 'XbFprBIdzyQ',
+        'thumbnail' => '/images/achievers/s-7.jpg',
+    ],
+    [
+        'id' => '8',
+        'name' => 'Mohammad Muzahid Chowdhury',
+        'course' => 'Bachelor of Business and Enterprise, Australia',
+        'videoId' => '',
+        'thumbnail' => '/images/achievers/s-8.jpg',
+    ],
+    [
+        'id' => '9',
+        'name' => 'Razia Ahmed Chelsea',
+        'course' => 'Master of Management and Master of Marketing, Australia',
+        'videoId' => 'DIMgG8e0LKQ',
+        'thumbnail' => '/images/achievers/s-9.jpg',
+    ],
+  
+];
+
 
     $testimonials = !empty($testimonials) ? array_values($testimonials) : $defaultTestimonials;
 @endphp
@@ -146,14 +148,14 @@
     <div class="relative mx-auto w-full max-w-7xl px-6 lg:px-8">
 
         {{-- Header --}}
-        <div class="mx-auto max-w-2xl text-center" data-reveal>
+        <div class="mx-auto max-w-4xl text-center" data-reveal>
             <span
                 class="inline-flex items-center gap-2 rounded-full border border-brand-100 bg-brand-50 px-4 py-1.5 text-[12px] font-semibold uppercase tracking-[0.16em] text-brand-600">
                 <iconify-icon icon="lucide:sparkles" class="text-[15px]"></iconify-icon>
                 {{ $badge }}
             </span>
             <h2
-                class="mt-5 text-[28px] font-semibold leading-[1.2] tracking-[-0.02em] text-black sm:text-[30px] lg:text-[32px]">
+                class="mt-5 text-3xl font-semibold leading-[1.2] tracking-[-0.02em] text-black sm:text-4xl md:text-5xl lg:text-6xl">
                 {{ $title }} <span class="text-red-500">{{ $titleHighlight }}</span>
             </h2>
             <p class="mx-auto mt-4 max-w-xl text-base leading-7 text-black/60">{{ $description }}</p>
