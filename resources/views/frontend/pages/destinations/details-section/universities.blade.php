@@ -4,7 +4,7 @@
 
 @php
     $destName = $destination['code'];
-      $universities = $destination['universities'] ?? [];
+    $universities = $destination['universities'] ?? [];
 @endphp
 
 
@@ -38,21 +38,24 @@
                                     class="h-full w-full object-contain transition-transform duration-300 group-hover:scale-105"
                                     loading="lazy">
                             </div>
-
-                            <div>
-                                <span
-                                    class="rounded-lg border border-brand-100 bg-white px-2.5 py-1 text-[11px] font-semibold text-brand-700">
-                                    {{ $university['ranking'] }}
-                                </span>
+                            <div class="flex flex-wrap gap-2">
+                                <div>
+                                    <span
+                                        class="rounded-lg border border-brand-100 bg-white px-2.5 py-1 text-[11px] font-semibold text-brand-700">
+                                        {{ $university['ranking'] }}
+                                    </span>
+                                </div>
+                                @if (!empty($university['badge']))
+                                    <span
+                                        class="rounded-full bg-success-50 px-2.5 py-1 text-[10px] font-bold tracking-wider text-success-500">
+                                        {{ $university['badge'] }}
+                                    </span>
+                                @endif
                             </div>
+
                         </div>
 
-                        @if (!empty($university['badge']))
-                            <span
-                                class="rounded-full bg-success-50 px-2.5 py-1 text-[10px] font-bold tracking-wider text-success-500">
-                                {{ $university['badge'] }}
-                            </span>
-                        @endif
+
                     </div>
 
                     {{-- Card Information --}}

@@ -44,7 +44,7 @@
 
                     <h1
                         class="max-w-3xl text-2xl font-bold leading-[1.15] tracking-tight text-white sm:text-3xl lg:text-5xl">
-                      {{$destination['hero']['title']}} <br>
+                      {{$destination['hero']['title']}}
                         <span class="text-red-500">{{ $destination['name'] }}</span>
                     </h1>
 

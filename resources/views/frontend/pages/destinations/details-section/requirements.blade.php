@@ -115,16 +115,12 @@
     <div class="rounded-2xl border border-brand-100 bg-white p-7 shadow-theme-md sm:p-8">
 
         {{-- Header --}}
-        <div class="flex flex-col justify-between gap-4 border-b border-brand-100 pb-5 sm:flex-row sm:gap-0">
+        <div class="flex flex-col gap-4 border-b border-brand-100 pb-5">
 
             <div>
                 <p class="text-[11px] font-semibold uppercase tracking-wider text-brand-600">
                     Explore Entry Route
                 </p>
-
-                <h4 class="mt-1 text-xl font-bold text-black">
-                    {{ $entryRequirements['title'] ?? 'Select Your Education Level' }}
-                </h4>
             </div>
 
             {{-- Dynamic Tabs --}}

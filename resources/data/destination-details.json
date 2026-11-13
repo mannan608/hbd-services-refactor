@@ -837,6 +837,1084 @@
             }
         }
     }
+    },
+    {
+  "id": 1,
+  "name": "Australia",
+  "slug": "australia",
+  "code": "AU",
+  "hero": {
+    "id": 1,
+    "title": "A Degree That Opens Doors Worldwide",
+    "description": "Experience world-class education, innovation-driven learning, and incredible lifestyle opportunities in one of the world's top study destinations.",
+    "features": [
+      {
+        "id": 1,
+        "value": "Internationally recognised degrees"
+      },
+      {
+        "id": 2,
+        "value": "Scholarship opportunities"
+      },
+      {
+        "id": 3,
+        "value": "Post-study work opportunities"
+      },
+      {
+        "id": 4,
+        "value": "Multicultural student life"
+      }
+    ]
+  },
+  "overview": {
+    "id": 1,
+    "title": "Academic Excellence in",
+    "description_1": "combines respected universities, practical course design and some of the most liveable cities in the world. Classes are taught in English, campuses welcome students from dozens of countries, and many degrees include industry projects or work placements that give you something concrete to show employers",
+    "description_2": "For students from Bangladesh, the appeal is also practical: clear pathway routes from O Level or HSC, several intakes each year, scholarship options at many universities, and a graduate visa that lets eligible students gain work experience after finishing",
+    "stats": [
+      {
+        "id": 1,
+        "label": "Currency",
+        "value": "AUD"
+      },
+      {
+        "id": 2,
+        "label": "Study options",
+        "value": "Foundation to PhD"
+      },
+      {
+        "id": 3,
+        "label": "Popular degree",
+        "value": "Bachelor's & Master's"
+      },
+      {
+        "id": 4,
+        "label": "Region",
+        "value": "Oceania"
+      }
+    ]
+  },
+  "cities": [
+    {
+      "id": 1,
+      "name": "Canberra",
+       "image": "/frontend-img/destinations/cities/uk-1.jfif",
+      "location": "Australian Capital Territory",
+      "description": "Australia's capital city, home to leading research universities and government institutions."
+    },
+    {
+      "id": 2,
+      "name": "Sydney",
+      "location": "New South Wales",
+       "image": "/frontend-img/destinations/cities/uk-1.jfif",
+      "description": "Australia's largest city, famous for business, finance, technology, and internationally recognised universities."
+    },
+    {
+      "id": 3,
+      "name": "Melbourne",
+      "location": "Victoria",
+       "image": "/frontend-img/destinations/cities/uk-1.jfif",
+      "description": "Australia's cultural and educational capital, home to top-tier universities, thriving tech startups, arts and coffee culture."
+    },
+    {
+      "id": 4,
+      "name": "Brisbane",
+      "location": "Queensland",
+       "image": "/frontend-img/destinations/cities/uk-1.jfif",
+      "description": "A rapidly growing sub-tropical economic hub praised for affordable living costs, warm climate, and leading research facilities."
+    },
+    {
+      "id": 5,
+      "name": "Adelaide",
+      "location": "South Australia",
+       "image": "/frontend-img/destinations/cities/uk-1.jfif",
+      "description": "Known for vibrant student communities, lower living costs, regional study incentives, and strong healthcare and engineering sectors."
+    },
+    {
+      "id": 6,
+      "name": "Perth",
+      "location": "Western Australia",
+       "image": "/frontend-img/destinations/cities/uk-1.jfif",
+      "description": "An energy and technology hub offering regional immigration incentives, high average graduate salaries, and coastal living."
     }
+  ],
+  "whyChoose": {
+    "id": 1,
+    "description": "Australian study is built around employability: courses are designed with industry input, assessments are practical, and graduates leave with skills as well as a certificate.",
+    "highlights": [
+      {
+        "id": 1,
+        "value": "Internationally recognised degrees"
+      },
+      {
+        "id": 2,
+        "value": "Support at every step"
+      },
+      {
+        "id": 3,
+        "value": "Post-study work pathway"
+      }
+    ],
+    "benefits": [
+      {
+        "id": 1,
+        "number": "01",
+        "icon": "lucide:graduation-cap",
+        "title": "World-Class Institutions",
+        "description": "Gain degrees that are globally recognized and highly respected by international employers",
+        "details": "Internationally recognised degrees"
+      },
+      {
+        "id": 2,
+        "number": "02",
+        "icon": "lucide:route",
+        "title": "Pathways that Fit Your Profile",
+        "description": "If your HSC or A Level results do not meet direct entry, Foundation and Diploma courses can lead into the second year of a degree at many universities",
+        "details": "A route when direct entry is unavailable"
+      },
+      {
+        "id": 3,
+        "number": "03",
+        "icon": "lucide:briefcase-business",
+        "title": "Post-Study Graduate Work",
+        "description": "Eligible graduates may apply for the Temporary Graduate visa (subclass 485) to live and work in Australia after their course",
+        "details": "Overseas work experience"
+      },
+      {
+        "id": 4,
+        "number": "04",
+        "icon": "lucide:clock",
+        "title": "Part-Time Work Rights",
+        "description": "Manage your living costs by working up to 48 hours per fortnight while classes are in session",
+        "details": "Support living expenses"
+      },
+      {
+        "id": 5,
+        "number": "05",
+        "icon": "lucide:book-open",
+        "title": "Comprehensive Specialisations",
+        "description": "Access thousands of interdisciplinary undergraduate and postgraduate degrees with modern industry-focused curriculums.",
+        "details": "Industry-aligned coursework"
+      },
+      {
+        "id": 6,
+        "number": "06",
+        "icon": "lucide:users",
+        "title": "A Multicultural Environment",
+        "description": "Study alongside students from across the world and join clubs, societies and community groups, including large South Asian communities in major cities.",
+        "details": "A network that crosses borders"
+      }
+    ],
+    "careerPoints": [
+      {
+        "id": 1,
+        "icon": "lucide:briefcase-business",
+        "title": "Global Employability"
+      },
+      {
+        "id": 2,
+        "icon": "lucide:network",
+        "title": "Industry Networking"
+      },
+      {
+        "id": 3,
+        "icon": "lucide:lightbulb",
+        "title": "Innovation & Research"
+      },
+      {
+        "id": 4,
+        "icon": "lucide:trending-up",
+        "title": "Higher Earning Potential"
+      }
+    ]
+  },
+  "courses": [
+    {
+      "id": 1,
+      "number": "01",
+      "icon": "lucide:code-2",
+      "title": "Computer Science & AI",
+      "description": "Cutting-edge fields covering software development, cyber defence, and data analytics.",
+      "subjects": [
+        "Cyber Security",
+        "Data Science",
+        "Artificial Intelligence",
+        "IT"
+      ]
+    },
+    {
+      "id": 2,
+      "number": "02",
+      "icon": "lucide:cog",
+      "title": "Engineering & Technology",
+      "description": "Structural, civil, and mechanical engineering supporting major infrastructure projects.",
+      "subjects": [
+        "Civil Engineering",
+        "Mechatronics",
+        "Construction Management",
+        "Electrical & Electronics"
+      ]
+    },
+    {
+      "id": 3,
+      "number": "03",
+      "icon": "lucide:heart-pulse",
+      "title": "Nursing & Healthcare",
+      "description": "High-demand fields across clinical care, public health, and health administration.",
+      "subjects": [
+        "Bachelor of Nursing",
+        "Master of Public Health",
+        "Health Management"
+      ]
+    },
+    {
+      "id": 4,
+      "number": "04",
+      "icon": "lucide:briefcase-business",
+      "title": "Business & Management",
+      "description": "Develop strategic leadership, global market expertise, and modern organisational skills.",
+      "subjects": [
+        "MBA",
+        "Business Analytics",
+        "Professional Accounting",
+        "Finance"
+      ]
+    },
+    {
+      "id": 5,
+      "number": "05",
+      "icon": "lucide:chart-no-axes-combined",
+      "title": "Accounting & Finance",
+      "description": "Acquire financial analytical capabilities and prepare for global banking, investment, and fintech careers.",
+      "subjects": [
+        "Corporate Finance",
+        "FinTech",
+        "Banking",
+        "Investment Management"
+      ]
+    },
+    {
+      "id": 6,
+      "number": "06",
+      "icon": "lucide:users",
+      "title": "Education and Social Sciences",
+      "description": "Explore teaching, community services and policy work.",
+      "subjects": [
+        "Education",
+        "Social Work",
+        "Psychology",
+        "International Relations"
+      ]
+    }
+  ],
+  "studyLevels": [
+    {
+      "id": 1,
+      "number": "01",
+      "title": "Foundation & Diploma Pathways",
+      "subtitle": "Build Academic & Language Readiness",
+      "duration": "Foundation: 6–12 months; Diploma: about 1 year",
+      "description": "A preparation route that strengthens academic and English skills before degree study. Many Bangladeshi students use this route after HSC or O Level. Diploma courses can lead into the second year of a degree.",
+      "qualifications": [
+        "Foundation",
+        "Diploma"
+      ],
+      "icon": "lucide:book-open"
+    },
+    {
+      "id": 2,
+      "number": "02",
+      "title": "Undergraduate Bachelor's Degrees",
+      "subtitle": "Comprehensive Higher Education",
+      "duration": "Typically 3–4 Years",
+      "description": "The standard undergraduate qualification, with optional Honours or a double degree in some fields. Duration varies by university, academic stream, and optional placement year.",
+      "qualifications": [
+        "Bachelor of Science",
+        "Bachelor of Engineering (Honours)",
+        "Bachelor of Computer Science",
+        "Bachelor of Education",
+        "Bachelor of Nursing"
+      ],
+      "icon": "lucide:graduation-cap"
+    },
+    {
+      "id": 3,
+      "number": "03",
+      "title": "Postgraduate Master's Degrees",
+      "subtitle": "Specialised Advanced Professional Training",
+      "duration": "Typically 2 Years",
+      "description": "Advanced professional training or research study. Duration varies by university, academic stream, and optional placement year.",
+      "qualifications": [
+        "Master of Science (MSc)",
+        "Master of Business Administration (MBA)",
+        "Master of Information Technology (MIT)"
+      ],
+      "icon": "lucide:award"
+    },
+    {
+      "id": 4,
+      "number": "04",
+      "title": "Doctoral Degrees (PhD / Research)",
+      "subtitle": "Pioneering Academic Research",
+      "duration": "Typically 3–4 Years",
+      "description": "Undertake independent research under academic supervisors, producing original thesis contributions in your specialised field.",
+      "qualifications": [
+        "Doctor of Philosophy (PhD)",
+        "Professional Doctorates"
+      ],
+      "icon": "lucide:microscope"
+    }
+  ],
+  "universities": [
+    {
+      "id": 1,
+      "name": "The University of Melbourne",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Melbourne, Victoria",
+      "type": "Research University",
+      "ranking": "QS World Ranking 2027: #22",
+      "badge": "STRONG ACADEMIC REPUTATION",
+      "description": "Founded in 1853, Melbourne is internationally recognised for teaching quality, research and graduate reputation. It offers programs in business, IT, engineering, medicine, law, education and social sciences.",
+      "url": "#contact"
+    },
+    {
+      "id": 2,
+      "name": "The University of Sydney",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Sydney, New South Wales",
+      "type": "Research University",
+      "ranking": "QS World Ranking 2027: #28",
+      "badge": "EXCELLENT RESEARCH FACILITIES",
+      "description": "Australia's first university, founded in 1850, known for business, engineering, IT, health sciences, architecture and law.",
+      "url": "#contact"
+    },
+    {
+      "id": 3,
+      "name": "The University of New South Wales (UNSW Sydney)",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Sydney, New South Wales",
+      "type": "Technology and Research University",
+      "ranking": "QS World Ranking 2027: #19",
+      "badge": "RESEARCH EXCELLENCE",
+      "description": "Known for technology, engineering, business and research, with strengths in computer science, cybersecurity, AI, data science, engineering and finance.",
+      "url": "#contact"
+    },
+    {
+      "id": 4,
+      "name": "The Australian National University (ANU)",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Canberra, ACT",
+      "type": "National Research University",
+      "ranking": "QS World Ranking 2027: #29",
+      "badge": "ACADEMIC EXCELLENCE",
+      "description": "Known for research and its international outlook, with programs in computing, IT, engineering, business, economics, science, international relations and public policy.",
+      "url": "#contact"
+    },
+    {
+      "id": 5,
+      "name": "Monash University",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Melbourne, Victoria",
+      "type": "Global Research University",
+      "ranking": "QS World Ranking 2027: #31",
+      "badge": "INTERNATIONAL STUDENT COMMUNITY",
+      "description": "A research-intensive university with programs in business, IT, engineering, pharmacy, medicine, education and science, alongside industry engagement and global partnerships.",
+      "url": "#contact"
+    },
+    {
+      "id": 6,
+      "name": "The University of Queensland (UQ)",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Brisbane, Queensland",
+      "type": "Public Research University",
+      "ranking": "QS World Ranking 2027: #40",
+      "badge": "BEAUTIFUL CAMPUS ENVIRONMENT",
+      "description": "Established in 1909, UQ offers programs in business, engineering, computer science, IT, biotechnology, health sciences and environmental studies.",
+      "url": "#contact"
+    },
+    {
+      "id": 7,
+      "name": "The University of Western Australia (UWA)",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Perth, Western Australia",
+      "type": "Public Research University",
+      "ranking": "QS World Ranking 2027: #77",
+      "badge": "INTERNATIONALLY RECOGNISED DEGREES",
+      "description": "A well-established public research university known for academic quality across engineering, computer science, IT, business, finance, environmental science, agriculture and health sciences.",
+      "url": "#contact"
+    },
+    {
+      "id": 8,
+      "name": "Adelaide University",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Adelaide, South Australia",
+      "type": "Research University",
+      "ranking": "QS World Ranking 2027: #79",
+      "badge": "MODERN LEARNING ENVIRONMENT",
+      "description": "The source describes Adelaide University as formed in 2026 by merging the University of Adelaide and the University of South Australia, with programs across business, computing, engineering, health, education and creative industries.",
+      "url": "#contact"
+    },
+    {
+      "id": 9,
+      "name": "University of Technology Sydney (UTS)",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Sydney, New South Wales",
+      "type": "Technology-Focused University",
+      "ranking": "QS World Ranking 2027: #87",
+      "badge": "TECHNOLOGY AND INNOVATION",
+      "description": "Known for practical education and industry connections, with programs in IT, computer science, cybersecurity, data science, engineering, business and communication.",
+      "url": "#contact"
+    },
+    {
+      "id": 10,
+      "name": "RMIT University",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Melbourne, Victoria",
+      "type": "Technology and Innovation University",
+      "ranking": "QS World Ranking 2027: #119",
+      "badge": "INDUSTRY CONNECTIONS",
+      "description": "Known for technology, engineering, business, design and professional education, combining academic knowledge with practical skills, hands-on learning and industry projects.",
+      "url": "#contact"
+    },
+    {
+      "id": 11,
+      "name": "Macquarie University",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Sydney, New South Wales",
+      "type": "Public University",
+      "ranking": "QS World Ranking 2027: #126",
+      "badge": "MODERN CAMPUS FACILITIES",
+      "description": "A Sydney public university known for its modern campus and business connections, offering IT, computer science, business, accounting, finance, data science, engineering, education and health sciences.",
+      "url": "#contact"
+    },
+    {
+      "id": 12,
+      "name": "University of Wollongong (UOW)",
+      "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_the_University_of_Manchester.svg",
+      "city": "Wollongong, New South Wales",
+      "type": "Public Research University",
+      "ranking": "QS World Ranking 2027: #195",
+      "badge": "STUDENT-FRIENDLY ENVIRONMENT",
+      "description": "An established public university with teaching, research and industry engagement, offering computer science, IT, engineering, business, nursing and health sciences.",
+      "url": "#contact"
+    }
+  ],
+  "requirements": [
+    {
+      "id": 1,
+      "icon": "lucide:graduation-cap",
+      "number": "01",
+      "title": "Academic Qualifications",
+      "description": "Academic qualifications must meet the entry criteria for the selected study level.",
+      "items": [
+        "SSC / O-Level for Foundation",
+        "HSC / Vocational HSC / A-Level for Diploma",
+        "HSC / A-Level / 4-year Polytechnic Diploma for Bachelor's",
+        "Recognised 4-year Bachelor's degree for Master's"
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "lucide:languages",
+      "number": "02",
+      "title": "Language Proficiency",
+      "description": "Demonstrate English language proficiency through an accepted test. Requirements vary by university and course.",
+      "items": [
+        "IELTS Academic",
+        "TOEFL iBT",
+        "PTE Academic"
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "lucide:files",
+      "number": "03",
+      "title": "Essential Documentation",
+      "description": "Prepare personal, academic and supporting documents for the relevant application type.",
+      "items": [
+        "Passport biometric / information page",
+        "Academic certificates and transcripts",
+        "English test certificate, if available",
+        "CV / Resume and other supporting documents where required"
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "lucide:wallet",
+      "number": "04",
+      "title": "Financial Preparation",
+      "description": "Prepare evidence for tuition fees, living costs, Overseas Student Health Cover (OSHC), and travel expenses.",
+      "items": [
+        "First year tuition fee funds",
+        "12 months of living costs",
+        "OSHC",
+        "Travel expenses"
+      ]
+    }
+  ],
+  "entryRequirements": {
+    "id": 1,
+    "title": "Select Your Education Level",
+    "description": "Explore the academic and English-language requirements for your preferred study level.",
+    "levels": [
+      {
+        "id": 1,
+        "key": "foundation",
+        "label": "Foundation",
+        "heading": "Foundation Entry Requirements",
+        "requirements": [
+          {
+            "id": 1,
+            "description": "SSC: CGPA 3.5 or 60%"
+          },
+          {
+            "id": 2,
+            "description": "GCE O-Level: 4 passes"
+          },
+          {
+            "id": 3,
+            "description": "IELTS Academic: overall 5.5, no band below 5.0"
+          },
+          {
+            "id": 4,
+            "description": "TOEFL iBT: overall 46, no section below 10"
+          },
+          {
+            "id": 5,
+            "description": "PTE Academic: overall 43, no skill below 36"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "key": "diploma",
+        "label": "Diploma",
+        "heading": "Diploma Entry Requirements",
+        "requirements": [
+          {
+            "id": 1,
+            "description": "HSC / Vocational HSC: CGPA 3.5 or 60%"
+          },
+          {
+            "id": 2,
+            "description": "GCE A-Level: 2 passes with a total score of 3*"
+          },
+          {
+            "id": 3,
+            "description": "English-language requirements depend on the institution and course"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "key": "undergraduate",
+        "label": "Bachelor's",
+        "heading": "Bachelor's Direct Entry Requirements",
+        "requirements": [
+          {
+            "id": 1,
+            "description": "HSC: CGPA 3.5 or above"
+          },
+          {
+            "id": 2,
+            "description": "A-Level: minimum 3 subjects with a total score of 7 or above*"
+          },
+          {
+            "id": 3,
+            "description": "4-year Polytechnic Diploma: minimum 65%"
+          },
+          {
+            "id": 4,
+            "description": "IELTS Academic: overall 6.0, no band below 5.5"
+          },
+          {
+            "id": 5,
+            "description": "TOEFL iBT: overall 72; Reading 10, Listening 9, Speaking 16, Writing 19 minimums"
+          },
+          {
+            "id": 6,
+            "description": "PTE Academic: overall 50, no skill below 42"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "key": "postgraduate",
+        "label": "Master's",
+        "heading": "Master's Entry Requirements",
+        "requirements": [
+          {
+            "id": 1,
+            "description": "4-year Bachelor's degree from a recognised institution"
+          },
+          {
+            "id": 2,
+            "description": "CGPA 2.6–3.0 or above on a 4.0 scale (approximately 60–70%), as per NOOSR guidelines"
+          },
+          {
+            "id": 3,
+            "description": "A 3-year Bachelor's degree is accepted only with a completed 2-year Master's degree from Bangladesh, to meet the required AQF level"
+          },
+          {
+            "id": 4,
+            "description": "IELTS Academic: overall 6.5, no band below 6.0"
+          },
+          {
+            "id": 5,
+            "description": "TOEFL iBT: overall 72; Reading 16, Listening 16, Speaking 18, Writing 22 minimums"
+          },
+          {
+            "id": 6,
+            "description": "PTE Academic: overall 58, no skill below 50"
+          }
+        ]
+      }
+    ],
+    "cta": {
+      "id": 1,
+      "label": "Get Free Profile Assessment",
+      "url": "#contact"
+    }
+  },
+  "financialPlanning": {
+    "id": 1,
+    "tuitionFees": [
+      {
+        "id": 1,
+        "level": "Foundation/Diploma",
+        "title": "Foundation & Diploma Tuition Fees",
+        "badge": "Annual Estimate",
+        "studentCategory": "Typical Fees for International Students",
+        "minimum": 15000,
+        "maximum": 25000,
+        "currency": "AUD",
+        "period": "Per academic year",
+        "description": "Estimated annual tuition fees for Foundation and Diploma study.",
+        "duration": "Foundation / Diploma",
+        "icon": "lucide:book-open"
+      },
+      {
+        "id": 2,
+        "level": "Undergraduate",
+        "title": "Undergraduate Tuition Fees",
+        "badge": "Annual Estimate",
+        "studentCategory": "Typical Fees for International Students",
+        "minimum": 20000,
+        "maximum": 45000,
+        "currency": "AUD",
+        "period": "Per academic year",
+        "description": "Estimated annual tuition fees for undergraduate study.",
+        "duration": "Typically 3–4 Years",
+        "icon": "lucide:graduation-cap"
+      },
+      {
+        "id": 3,
+        "level": "Postgraduate",
+        "title": "Postgraduate Tuition Fees",
+        "badge": "Annual Estimate",
+        "studentCategory": "Typical Fees for International Students",
+        "minimum": 22000,
+        "maximum": 50000,
+        "currency": "AUD",
+        "period": "Per academic year",
+        "description": "Estimated annual tuition fees for postgraduate study.",
+        "duration": "Typically 2 Years",
+        "icon": "lucide:award"
+      },
+      {
+        "id": 4,
+        "level": "MBA",
+        "title": "MBA Tuition Fees",
+        "badge": "Annual Estimate",
+        "studentCategory": "Typical Fees for International Students",
+        "minimum": 30000,
+        "maximum": 95000,
+        "currency": "AUD",
+        "period": "Per academic year",
+        "description": "Estimated annual MBA tuition fees.",
+        "duration": "MBA",
+        "icon": "lucide:briefcase-business"
+      }
+    ],
+    "livingCosts": {
+      "title": "Annual Living Cost Requirements",
+      "description": "Living cost amounts stated for a 12-month period.",
+      "period": "Per 12 months",
+      "areas": [
+        {
+          "id": 1,
+          "category": "Primary Applicant",
+          "name": "Primary Student",
+          "amount": 29710,
+          "currency": "AUD",
+          "description": "Annual living cost requirement for the primary student."
+        },
+        {
+          "id": 2,
+          "category": "Family Member",
+          "name": "Spouse / Partner",
+          "amount": 10394,
+          "currency": "AUD",
+          "description": "Additional annual living cost requirement for a spouse or partner."
+        }
+      ]
+    },
+    "scholarships": {
+      "featured": {
+        "id": 1,
+        "badge": "Featured Funding Opportunity",
+        "name": "Australia Awards & University Merit Scholarships",
+        "provider": "Australian Government & Partner Universities",
+        "description": "Funding opportunities for eligible international applicants, including students from Bangladesh, ranging from partial tuition reductions to fully funded awards.",
+        "icon": "lucide:trophy",
+        "value": "Up to 100% funding",
+        "valueLabel": "Scholarship Coverage",
+        "valueDescription": "Coverage depends on the scholarship, institution, programme and eligibility.",
+        "buttons": [
+          {
+            "id": 1,
+            "label": "Check Scholarship Eligibility",
+            "url": "#contact",
+            "icon": "lucide:arrow-right"
+          },
+          {
+            "id": 2,
+            "label": "Talk to Scholarship Advisor",
+            "url": "#contact",
+            "icon": "lucide:headset"
+          }
+        ]
+      },
+      "items": [
+        {
+          "id": 1,
+          "icon": "lucide:award",
+          "category": "Government",
+          "name": "Australia Awards Scholarships (DFAT)",
+          "description": "A government scholarship for emerging leaders from eligible developing countries to study in Australia and return home to contribute to development.",
+          "benefits": "Fully funded: tuition, return airfare, living allowance and OSHC",
+          "level": "Postgraduate (Master's)",
+          "website": ""
+        },
+        {
+          "id": 2,
+          "icon": "lucide:graduation-cap",
+          "category": "Merit Based",
+          "name": "University International Merit Scholarships",
+          "description": "Competitive merit-based awards given by Australian universities to high-achieving international applicants based on academic results.",
+          "benefits": "Typically AUD 5,000–20,000 per year or a percentage of fees",
+          "level": "Undergraduate & Master's",
+          "website": ""
+        },
+        {
+          "id": 3,
+          "icon": "lucide:award",
+          "category": "Institutional Merit",
+          "name": "Vice-Chancellor's International Scholarships",
+          "description": "Automatic or application-based awards for outstanding academic performance, offered by many universities.",
+          "benefits": "10%–50% fee reductions, varying by institution and course",
+          "level": "Undergraduate & Master's",
+          "website": ""
+        },
+        {
+          "id": 4,
+          "icon": "lucide:globe",
+          "category": "Research",
+          "name": "Research Training Program (RTP) Stipend / Fee Offsets",
+          "description": "Government-funded support for international students in higher degree by research programmes, allocated through universities.",
+          "benefits": "Tuition fee offset and, at some institutions, a living stipend",
+          "level": "Research (Master's / PhD)",
+          "website": ""
+        }
+      ]
+    }
+  },
+  "admissionProcess": {
+    "id": 1,
+    "eyebrow": "STEP-BY-STEP ADMISSION PROCESS",
+    "title": "How We Guide You Towards Success",
+    "description": "Our structured 8-step approach provides guidance throughout your Australian admission and student visa journey.",
+    "steps": [
+      {
+        "id": 1,
+        "step": "01",
+        "icon": "lucide:user-check",
+        "title": "Profile Assessment & Course Selection",
+        "description": "Our experienced counsellors carefully assess your profile to identify universities, institutions, and courses that align with your academic background, financial capacity, and future career aspirations.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Academic qualification and transcript assessment"
+          },
+          {
+            "id": 2,
+            "value": "English language proficiency evaluation"
+          },
+          {
+            "id": 3,
+            "value": "Course, institution, budget and location selection"
+          },
+          {
+            "id": 4,
+            "value": "Scholarship eligibility and Genuine Student guidance"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "step": "02",
+        "icon": "lucide:languages",
+        "title": "English Language Preparation & Testing",
+        "description": "HBD Language Academy provides preparation support for English proficiency tests.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Diagnostic mock tests and score assessment"
+          },
+          {
+            "id": 2,
+            "value": "IELTS and PTE preparation strategies"
+          },
+          {
+            "id": 3,
+            "value": "AI-powered evaluation and performance feedback"
+          },
+          {
+            "id": 4,
+            "value": "Test registration and booking assistance"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "step": "03",
+        "icon": "lucide:file-text",
+        "title": "University & Institution Application",
+        "description": "Counsellors guide document collection, application preparation, submission and follow-up with selected Australian education providers.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Document collection and verification"
+          },
+          {
+            "id": 2,
+            "value": "Application preparation and submission"
+          },
+          {
+            "id": 3,
+            "value": "Application tracking and university communication"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "step": "04",
+        "icon": "lucide:mail-check",
+        "title": "Offer Letter Assessment & Acceptance",
+        "description": "Review and compare admission offers, conditions, scholarships and tuition payment requirements before accepting an offer.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Conditional offer letter review"
+          },
+          {
+            "id": 2,
+            "value": "Scholarship comparison and assessment"
+          },
+          {
+            "id": 3,
+            "value": "Tuition fee and payment guidance"
+          },
+          {
+            "id": 4,
+            "value": "Genuine Student condition and interview preparation"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "step": "05",
+        "icon": "lucide:wallet",
+        "title": "Genuine Student & Financial Document Preparation",
+        "description": "Review financial documents and Genuine Student requirements, and identify gaps or inconsistencies before submission.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Financial capacity and sponsor document review"
+          },
+          {
+            "id": 2,
+            "value": "Income and source-of-funds assessment"
+          },
+          {
+            "id": 3,
+            "value": "Bank statements and financial evidence review"
+          },
+          {
+            "id": 4,
+            "value": "Genuine Student statement preparation guidance"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "step": "06",
+        "icon": "lucide:credit-card",
+        "title": "Unconditional Offer, Tuition Fee Payment & OSHC",
+        "description": "Receive guidance on initial tuition fee payment and Overseas Student Health Cover arrangements after meeting admission requirements.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Student payment file guidance"
+          },
+          {
+            "id": 2,
+            "value": "Tuition fee payment and invoice verification"
+          },
+          {
+            "id": 3,
+            "value": "OSHC selection and arrangement assistance"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "step": "07",
+        "icon": "lucide:shield-check",
+        "title": "Confirmation of Enrolment (CoE) & Student Visa Application",
+        "description": "Visa counsellors guide the preparation of the Australian Student Visa (subclass 500) application and supporting documents.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "ImmiAccount setup and student visa application preparation"
+          },
+          {
+            "id": 2,
+            "value": "CoE, OSHC, academic and English evidence organisation"
+          },
+          {
+            "id": 3,
+            "value": "Financial, sponsorship and identity document organisation"
+          },
+          {
+            "id": 4,
+            "value": "Visa lodgement, biometrics and medical examination guidance"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "step": "08",
+        "icon": "lucide:plane-takeoff",
+        "title": "Pre-Departure Guidance & Travel Assistance",
+        "description": "Prepare to travel and settle into Australia with practical pre-departure and arrival support.",
+        "checklist": [
+          {
+            "id": 1,
+            "value": "Air ticket booking assistance"
+          },
+          {
+            "id": 2,
+            "value": "Accommodation and airport pickup guidance"
+          },
+          {
+            "id": 3,
+            "value": "Pre-departure briefing and essential document guidance"
+          },
+          {
+            "id": 4,
+            "value": "Practical settling-in information"
+          }
+        ]
+      }
+    ],
+    "cta": {
+      "id": 1,
+      "title": "Ready to Begin Your Admission Journey?",
+      "description": "Schedule a free and confidential one-on-one consultation with a senior counsellor.",
+      "buttons": [
+        {
+          "id": 1,
+          "label": "Book Free Consultation",
+          "url": "#contact",
+          "icon": "lucide:arrow-right",
+          "type": "primary"
+        },
+        {
+          "id": 2,
+          "label": "Call XXXXXXXXX",
+          "url": "tel:XXXXXXXXX",
+          "icon": "lucide:phone",
+          "type": "secondary"
+        }
+      ]
+    }
+  },
+  "faqSection": {
+    "id": 1,
+    "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+    "title": "Questions About Studying in Australia",
+    "description": "Find answers to common questions about Australian university admissions, English tests, student visas, part-time work and living costs.",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Can I study in Australia without IELTS?",
+        "answer": "IELTS is not the only English language test accepted by Australian universities. Many institutions accept alternatives such as PTE Academic, TOEFL iBT, OIETC and Cambridge English, depending on their admission policies. Duolingo is not universally accepted, so students should check the specific university requirements."
+      },
+      {
+        "id": 2,
+        "question": "How long can I stay in Australia after completing my studies?",
+        "answer": "Eligible international graduates may apply for the Temporary Graduate visa (subclass 485), under the Post-Higher Education Work stream. The source lists general periods of 2 years for Bachelor's degrees, up to 4 years for Master's by Coursework, up to 2 years for Master's by Research, and up to 4 years for doctoral degrees. Applicants must meet the relevant age, qualification and visa requirements."
+      },
+      {
+        "id": 3,
+        "question": "Can international students work part-time while studying in Australia?",
+        "answer": "International students holding a valid Student Visa (subclass 500) can generally work up to 48 hours per fortnight while their course is in session. During official course breaks, they can work unlimited hours, subject to visa conditions. Different entitlements may apply to Master's by Research and doctoral students."
+      },
+      {
+        "id": 4,
+        "question": "What are the main university intakes in Australia?",
+        "answer": "Australian universities generally offer February/March and July intakes. Some universities also offer additional intakes in November or other months, depending on the course and availability."
+      },
+      {
+        "id": 5,
+        "question": "What is a Confirmation of Enrolment (CoE), and when do I receive it?",
+        "answer": "A Confirmation of Enrolment (CoE) is an official electronic document issued by an Australian education provider after you accept your admission offer and complete the required enrolment steps. In most cases, students must accept the offer, pay the required tuition fee deposit and arrange OSHC before receiving the CoE. It is required for an Australian Student Visa (subclass 500) application."
+      },
+      {
+        "id": 6,
+        "question": "How much money do I need to show for an Australian student visa?",
+        "answer": "Students must demonstrate sufficient funds for tuition fees, living expenses, OSHC and travel costs. The source lists AUD 29,710 for 12 months of living expenses for a single student, in addition to first-year tuition, OSHC and travel expenses. Financial evidence may include bank deposits, scholarships or acceptable financial sponsorship."
+      },
+      {
+        "id": 7,
+        "question": "Can I bring my spouse or family members to Australia?",
+        "answer": "The supplied content states that, under Australian Student Visa rules effective from 2 October 2026, most international students can no longer include a spouse or dependent children in their Student Visa (subclass 500) application or generally bring them later as subsequent entrants. It lists limited exemptions for certain PhD students, DFAT or Defence-sponsored students, eligible foreign-government scholarship recipients, and eligible nationals of certain Pacific Island or ASEAN countries. Bangladesh is not included in the Pacific Island or ASEAN exemption. Check the latest Department of Home Affairs requirements before making plans."
+      }
+    ],
+    "support": {
+      "id": 1,
+      "emailCard": {
+        "title": "Have More Questions?",
+        "description": "The admissions team can help review academic qualifications, English language results and financial documents.",
+        "label": "Email Admissions",
+        "email": "info@hbdservices.com",
+        "icon": "lucide:messages-square"
+      },
+      "consultationCard": {
+        "title": "Need Personal Guidance?",
+        "subtitle": "Speak with a senior counsellor today.",
+        "description": "Get support with university selection, applications, documentation and student visa guidance.",
+        "button": {
+          "label": "Book Consultation",
+          "url": "#contact",
+          "icon": "lucide:arrow-right"
+        },
+        "icon": "lucide:headset"
+      }
+    }
+  }
+}
+
   ]
 }

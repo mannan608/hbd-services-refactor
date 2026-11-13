@@ -33,6 +33,23 @@
       "avgCost": "$ 20,000 – 45,000/year",
        "visaProcessing": "3–8 weeks (estimated)"
       
+    },
+    {
+      "id": 1,
+      "name": "Australia",
+      "slug": "australia",
+      "image": "frontend-img/destinations/australia.webp",
+      "flag": "https://flagcdn.com/w40/gb.png",
+       "flagCode": "gb",
+      "is_featured": false,
+      "popular": true,
+      "rating": 4.9,
+      "review_count": 1250,
+      "description": "Experience a rich academic heritage, internationally recognised qualifications, shorter degree programs, and excellent opportunities for personal and professional growth.",
+      "location": "United Kingdom",
+      "avgCost": "$ 20,000 – 45,000/year",
+       "visaProcessing": "3–8 weeks (estimated)"
+      
     }
    
   ]

@@ -69,11 +69,11 @@
 
                             <div class="mt-1 text-3xl font-extrabold tracking-tight text-brand-600 sm:text-4xl">
 
-                                {{ $fee['currency_symbol'] ?? '' }}{{ number_format($fee['minimum'] ?? 0) }}
+                                {{ $fee['currency'] ?? '' }} {{ number_format($fee['minimum'] ?? 0) }}
 
                                 –
 
-                                {{ $fee['currency_symbol'] ?? '' }}{{ number_format($fee['maximum'] ?? 0) }}
+                                {{ $fee['currency'] ?? '' }} {{ number_format($fee['maximum'] ?? 0) }}
 
                             </div>
 

@@ -42,6 +42,7 @@
                 </div>
 
                 {{-- Trust badges --}}
+                
                 <div class="mt-10 flex flex-wrap items-center gap-2 sm:gap-6 border-t border-brand-200/60 pt-6">
                     <div class="flex items-center gap-2 text-sm font-medium text-black/70">
                         <span class="flex h-5 w-5 items-center justify-center rounded-full bg-success-50 text-success-500">
