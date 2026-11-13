@@ -39,12 +39,16 @@
                                     loading="lazy">
                             </div>
                             <div class="flex flex-wrap gap-2">
-                                <div>
+                                 @if (!empty($university['ranking']))
+                                     <div>
                                     <span
                                         class="rounded-lg border border-brand-100 bg-white px-2.5 py-1 text-[11px] font-semibold text-brand-700">
                                         {{ $university['ranking'] }}
                                     </span>
                                 </div>
+                                @endif
+
+                               
                                 @if (!empty($university['badge']))
                                     <span
                                         class="rounded-full bg-success-50 px-2.5 py-1 text-[10px] font-bold tracking-wider text-success-500">
@@ -79,9 +83,9 @@
 
                         {{-- Footer link --}}
                         <div class="mt-6 border-t border-brand-100 pt-4">
-                            <a href="{{ $university['url'] }}"
+                            <a href="#"
                                 class="inline-flex w-full items-center justify-between text-xs font-semibold text-brand-600 transition group-hover:text-brand-700">
-                                <span>Check Course Eligibility</span>
+                                <span>Check Eligibility</span>
                                 <span
                                     class="flex h-8 w-8 items-center justify-center rounded-lg border border-brand-200 bg-brand-50 text-brand-600 transition group-hover:bg-brand-500 group-hover:border-brand-500 group-hover:text-white">
                                     <iconify-icon icon="lucide:arrow-right" class="text-sm"></iconify-icon>

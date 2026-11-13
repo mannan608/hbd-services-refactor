@@ -68,7 +68,7 @@
             {{-- Right side: Image preview --}}
             <div class="relative" data-reveal style="--reveal-delay: 150ms">
                 <div class="relative overflow-hidden rounded-2xl border border-brand-100 bg-white p-2 shadow-theme-md">
-                    <img src="https://images.unsplash.com/photo-1562774053-701939374585?w=1000&q=85"
+                    <img src="{{ asset($destination['whyChoose']['image'] ?? 'frontend-img/destinations/default.webp') }}"
                          alt="Historic university campus in {{ $destName }}"
                          class="h-[360px] w-full rounded-xl object-cover sm:h-[420px]">
 
