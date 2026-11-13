@@ -20,7 +20,7 @@
     <main class="min-h-screen bg-white" x-data="destinationPage()" x-init="init()">
 
         {{-- HERO SECTION --}}
-        <header class="relative isolate overflow-hidden bg-brand-950 text-white">
+        {{-- <header class="relative isolate overflow-hidden bg-brand-950 text-white">
            
             <div class="absolute inset-0 -z-10 overflow-hidden">
                 <img src="{{ asset($destination['image'] ?? 'frontend-img/destinations/default.webp') }}"
@@ -81,9 +81,9 @@
                         </div>
                 </div>
             </div>
-        </header>
+        </header> --}}
 
-        {{-- @include('frontend.pages.destinations.details-section.hero') --}}
+        @include('frontend.pages.destinations.details-section.hero')
 
         {{-- STICKY SECTION NAVIGATION --}}
         <nav class="sticky top-26 sm:top-30 z-40 border-b border-brand-100 bg-white/95 shadow-sm backdrop-blur-md"
