@@ -21,7 +21,7 @@
 
         {{-- HERO SECTION --}}
         <header class="relative isolate overflow-hidden bg-brand-950 text-white">
-            {{-- Background layers --}}
+           
             <div class="absolute inset-0 -z-10 overflow-hidden">
                 <img src="{{ asset($destination['image'] ?? 'frontend-img/destinations/default.webp') }}"
                     alt="{{ $destination['name'] }}" class="h-full w-full object-cover opacity-15"
@@ -35,7 +35,7 @@
 
             <div
                 class="mx-auto grid max-w-7xl items-center gap-12 px-4 py-16 sm:px-6 lg:grid-cols-12 lg:gap-12 lg:px-8 lg:py-20">
-                {{-- Left column: Headline, summary, features, and CTAs --}}
+               
                 <div class="lg:col-span-7" data-reveal>
                     <div
                         class="mb-5 inline-flex items-center gap-2 rounded-full border border-brand-400/30 bg-brand-500/15 px-4 py-1.5 text-[10px] md:text-[12px] font-semibold uppercase tracking-[0.16em] text-brand-200 backdrop-blur-sm">
@@ -67,7 +67,7 @@
                     </div>
                 </div>
 
-                {{-- Right column: Hero summary snapshot card --}}
+               
                 <div class="lg:col-span-5" data-reveal style="--reveal-delay: 150ms">
                     <div
                             class="group relative overflow-hidden rounded-2xl border border-white bg-slate-white/50 p-2 shadow-2xl backdrop-blur-sm transition-all duration-500 hover:border-slate-700">
@@ -82,6 +82,8 @@
                 </div>
             </div>
         </header>
+
+        {{-- @include('frontend.pages.destinations.details-section.hero') --}}
 
         {{-- STICKY SECTION NAVIGATION --}}
         <nav class="sticky top-26 sm:top-30 z-40 border-b border-brand-100 bg-white/95 shadow-sm backdrop-blur-md"
